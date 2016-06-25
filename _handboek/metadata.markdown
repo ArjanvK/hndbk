@@ -21,6 +21,7 @@ Door middel van zoekwoordonderzoek kun je woorden toevoegen aan jouw content zod
 Een zoekwoordonderzoek kun je doen via de [zoekwoordplanner](https://adwords.google.com/ko/KeywordPlanner/Home?__u=9761517890&__c=8242883690&authuser=0#start) in Google Adwords.  Door je hier in te loggen met emailadres en wachtwoord, krijg je toegang. In Google Adwords staat verdere uitleg over het gebruik van de zoekwoordplanner. 
 
 Als voorbeeld gebruiken we Carine. Carine is op zoek naar een nieuw kunstwerk, maar weet niet precies waar ze op moet letten. De Kunstuitleen kan haar 7 tips geven bij de aanschaf van een nieuw kunstwerk. Dit is de uitkomst van het zoekwoordonderzoek dat voor Carine is gedaan:
+
 * kunst in huis
 * kunstuitleen (zwolle)
 * kunstliefhebber
