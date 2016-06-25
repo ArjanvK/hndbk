@@ -63,6 +63,8 @@ collections:
     title: Stijlgids
     output: true
     permalink: "/:collection/:path/"
+    meta:
+      description: Visuele communicatie
   uploads:
     title: Uploads
     output: true
