@@ -2,7 +2,7 @@
 title: Credits
 permalink: "/credits/"
 position: 0
-layout: section
+layout: page
 ---
 
 Tientallen tentamens, verrassende projecten en genoeg stressmomenten verder is het zo ver. De laatste fase van de studie Communicatie is voor mij aangebroken: het afstuderen! Tijdens deze belangrijke laatste fase heb ik mij mogen werpen op een uitdagend project vóór en mét Kunstuitleen Zwolle. Van februari tot en met juni 2016 heb ik mij gericht op de ontwikkeling van een online communicatiehandboek. Een hele uitdaging, maar des te leuker.
