@@ -59,15 +59,6 @@ collections:
   posts:
     title: Posts
     output: true
-  style:
-    title: Stijlgids
-    output: true
-    permalink: "/:collection/:path/"
-    meta:
-      description: Beschrijving van onze huisstijl
-      badge: "/uploads/badge--style.svg"
-      in_nav: true
-    position: 60
   uploads:
     title: Uploads
     output: true
