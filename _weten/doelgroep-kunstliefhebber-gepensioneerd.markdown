@@ -4,73 +4,38 @@ date: 2015-11-01 01:03:00 +01:00
 position: 5
 ---
 
-When working on your site, you'll want to keep your theme and content in sync. This is exactly what GitHub Sync was made for. Once GitHub Sync is enabled, every time you update your Siteleaf site or your [GitHub](https://github.com) repo, the changes will be synced between the two.
+De gepensioneerde kunstliefhebber
 
-### Enable GitHub Sync
+**De persona Liesbeth Franken**
 
-1. After creating a site, go to the **Sync** tab under **Settings**
-2. Connect to GitHub
-3. Choose a repo, and optionally a branch name. We generally recommend using the `master` branch for syncing source files, and if using GitHub Pages for hosting, the `gh-pages` branch in the same repo for published sites. However you may use two separate repos, or any configuration you wish.
+* Liesbeth Franken
+* 68 jaar 
+* Alleenstaand 
+* Gepensioneerd 
+* Woonachtig in de binnenstad van Zwolle
 
 
-Third-party application access needs to be turned **on** in order for Siteleaf to see your repositories. If you don't see a repository when you connect your GitHub account, go to the organization's settings and enable third-party application access.
-{: .warning}
 
-### Local development with GitHub Sync
+Liesbeth is een 68-jarige vrouw en woont in een ruim appartement in de binnenstad van Zwolle. Haar man Johan is twee jaar terug overleden en sindsdien woont Liesbeth alleen. Liesbeth is jarenlang werkzaam geweest in het bankleven, maar is sinds een jaartje gepensioneerd. Samen met Johan heeft ze één dochter gekregen: Rosalie. Ook heeft ze een hondje, Teddy. 
 
-1) Initialize or clone your GitHub repo locally to your machine
+Liesbeth is een bezig type en de rust die bij haar pensioen komt kijken vindt ze dan ook niets. Eén dag in de week past ze op haar kleinkinderen Tirza en Jasper. Daarnaast doet ze twee ochtenden in de week vrijwilligerswerk bij een buurtcentrum. Op woensdagmiddag volgt Liesbeth een schildercursus en iedere vrijdagochtend gaat ze bridgen met vriendinnen. 
 
-2) Create a file called `Gemfile` in your site's root folder on your machine and add the `github-pages` gem to your bundle. This will install Jekyll and the same [plugins](/themes/jekyll-plugins/) that Siteleaf supports:
+Liesbeth heeft al jarenlang een abonnement bij de Kunstuitleen. Ieder half jaar hing er wel een nieuw stuk in hun woning. In de jaren dat ze bij de Kunstuitleen komen hebben ze ook al drie keer daadwerkelijk een kunstwerk gekocht. Liesbeth heeft veel verstand van kunst gekregen door de jaren heen. Ze leent dan ook niet meer om haar smaak uit te vinden, maar meer voor het afwisselen. Ze wisselt kunstwerken ongeveer tussen de 1 en 3 jaar om. De keuze voor bepaalde kunstwerken komt voort uit een intrinsieke motivatie: de mate waarop het kunstwerk inspireert en inspeelt op emotie is steeds belangrijker geworden. 
+Het maakt haar niet uit of het een (on)bekende kunstenaar betreft, ze vindt het belangrijker dat het kunstwerk mooi is en ze er van kan genieten. 
 
-{% highlight ruby %}
-source 'http://rubygems.org'
-gem 'github-pages', group: :jekyll_plugins
-{% endhighlight %}
+Liesbeth vindt het leuk om regelmatig de Kunstuitleen binnen te lopen, maar vindt het ook handig als ze maandelijks op de hoogte wordt gehouden van nieuwe kunstwerken in collectie. Zo kan ze er snel bij zijn, mocht er iets naar haar smaak binnen komen in de collectie. Geld speelt een minimale rol bij het beslissingsproces: een mooi kunstwerk is belangrijker dan een zacht prijsje. De aankoop van een kunstwerk mag dan ook tussen de 1000 en 2500 euro kosten. Liesbeth zal sneller over gaan tot een aankoop als er meer exposities zijn en er meer kunstwerken met nationale bekendheid binnen komen. 
 
-3) Install the bundle:
+Liesbeth vindt het leuk om regelmatig de website van Kunstuitleen Zwolle te bezoeken. Daarnaast is ze ook actief met email. Maar naast een enkele online kanalen, vindt ze het toch prettig om een folder of brochure in haar handen te hebben.
 
-{% highlight bash %}
-$ gem install bundler
-$ bundle install
-{% endhighlight %}
+**De customer journey van Liesbeth**
 
-4) Start the Jekyll server:
+|    DE PERSONA           |    Oriënteren                                                                                                             |    Lid worden                                                                                                                   |    Lenen                                                                                                                        |    Kopen                                                                                        |    Aanbevelen                                                                                                  |
+|-------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+|    CUSTOMER JOBS        |    Ik wil graag kunst in huis   dat mij herinnert aan vroeger.                                                            |    Ik wil graag meer context   bij een kunstwerk dat mijn interesse heeft gewekt.                                               |    Ik vind het leuk om   inspiratie op te doen voor mijn woning.                                                                |    Ik wil herinneringen graag   vastleggen zodat ze een mooie plek in mijn woning krijgen.      |    Ik wil mijn kleinkinderen   graag kennis laten maken met kunst.                                             |
+|    DOELEN               |    Door kunst te vinden dat   inspeelt op mijn gevoel ervaar ik een prettig gevoel.                                       |    Door de kunstenaar te   ontmoeten of exposities te bezoeken kom ik meer te weten over het verhaal   achter het kunstwerk.    |    Door regelmatig de   Kunstuitleen te bezoeken, ben ik snel op de hoogte van nieuwe kunstwerken en   andere mogelijkheden.    |    Foto’s of tekeningen van   mijn kleinkind(eren) wil ik graag in een mooie lijst brengen.     |    Door op een leuke manier   kennis te maken met kunst, hoop ik mijn kleinkind(eren) iets bij te brengen.     |
+|    DE KUNSTUITLEEN      |    Gevonden worden                                                                                                        |    Werven                                                                                                                       |    Activeren                                                                                                                    |    Vertrouwen, boeien, binden                                                                   |    Refereren                                                                                                   |
+|    ACTIVITEITEN         |    Landingspagina met   whitepaper over kunst en emotie, nieuwsbrief over kunstwerken met onderwerp   uit geschiedenis    |    Het organiseren van   exposities/evenementen in de Kunstuitleen, online achtergrondinformatie bij   de kunstwerken.          |    Emailnieuwsbrief met   nieuwe werken in collectie, landingspagina met mogelijkheid om in te   schrijven voor kunstwerk.      |    Landingspagina met   mogelijkheid tot downloaden van tips.                                   |    Educatieprogramma voor   kinderen, rondleiding in de Kunstuitleen, online spel/kleurplaat.                  |
+|    INSTRUMENT           |    Whitepaper   Landingspagina   (Email)nieuwsbrief                                                                       |    Exposities   Online galerij                                                                                                  |    Emailnieuwsbrief   Landingspagina   Online reserveren                                                                        |    Whitepaper met tips   Landingspagina                                                         |    Online spel/kleurplaat   Educatieprogramma in Kunstuitleen                                                  |
+|        CONTENT          |    Kunst & emotie   Historie verwerkt in kunst                                                                            |    Het verhaal achter…   De persoon achter het   kunstwerk.                                                                     |    Nieuw in collectie                                                                                                           |    5 tips voor het inlijsten   van kunst                                                        |    Weet jij wat kunst is?   Maak kennis met kunst   Maak jouw eigen kunstwerk!                                 |
 
-{% highlight bash %}
-$ bundle exec jekyll serve
-{% endhighlight %}
 
-Now visit [localhost:4000](http://localhost:4000) to see your site!
-
-5) Make some changes then sync them
-
-If pushing and pulling changes from the command line isn't your thing, you can download [GitHub Desktop](https://desktop.github.com/) to do it through a user-friendly interface.
-{: .tip}
-
-Push local changes to GitHub and Siteleaf:
-
-{% highlight bash %}
-$ git add .
-$ git commit -m "Describe your changes here"
-$ git push
-{% endhighlight %}
-
-Or pull the latest changes from GitHub and Siteleaf:
-
-{% highlight bash %}
-$ git pull
-{% endhighlight %}
-
-### FAQ
-
-##### Why is Siteleaf changing my YAML formatting after I make a commit?
-
-In some cases, you might notice a commit from Siteleaf directly after you commit a change to GitHub. This typically arises when your YAML formatting is inconsistent with the output of our YAML parser. Jekyll uses [SafeYAML](https://github.com/dtao/safe_yaml) to parse front matter and we use the same. These changes shouldn't affect your final output when your front matter is rendered.
-
-##### What happens when I setup syncing on an existing Siteleaf site?
-
-During initial sync, all current files in Siteleaf will be saved into your repo. If you do not wish to merge or overwrite your GitHub content, you can import your repo as a new site. If you are unsure, be safe and back up your content.
-
-##### What happens when I change my sync settings repo or branch?
-
-Any files edited in Siteleaf since your site was last synced will be saved into the new repo or branch. All files already synced with the _old_ repo or branch will be replaced or removed from Siteleaf with the contents of the _new_ repo or branch. If you do not wish to merge or replace your content, you can import your repo as a new site. If you are unsure, be safe and back up your content.
