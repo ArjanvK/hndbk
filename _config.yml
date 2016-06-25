@@ -1,6 +1,7 @@
 ---
+<<<<<<< HEAD
 title: Handboek Kunstplatform
-timezone: America/New_York
+timezone: Europe/Amsterdam
 collections:
   api:
     title: API
@@ -124,3 +125,14 @@ gems:
 - jekyll-sitemap
 - jekyll-seo-tag
 logo: "/assets/images/logo.svg"
+=======
+title: Hndbk
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+>>>>>>> origin/master
