@@ -18,10 +18,10 @@ Door de gegevens uit Google Analytics te groeperen, zijn verschillende doelgroep
 Zakelijk 
 Particulier
  
-* Starters_ 
-* Gezinnen_ 
-* Empty nesters_ 
-* Gepensioneerden_ 
+* Starters
+* Gezinnen
+* Empty nesters
+* Gepensioneerden
 
 De kunstliefhebbers zijn onderverdeeld in de subdoelgroepen ‘zakelijk’ en ‘particulier’. Bij Kunstuitleen Zwolle behoren zowel particuliere als zakelijke kunstliefhebbers tot het klantenbestand. Onder de zakelijke liefhebbers vallen veel bedrijven uit Zwolle en omstreken die waarde hechten aan kunst in de werkomgeving. De particuliere kunstliefhebbers zijn natuurlijk ook op te delen in verschillende subdoelgroepen. Een mens doorloopt verschillende fases in het leven en dit is ook terug te zien op kunstgebied. De volgende subdoelgroepen zijn daarom vastgesteld: starters, gezinnen, empty nesters en gepensioneerden. 
 
@@ -31,9 +31,9 @@ De doelgroep ‘Kunstbemiddelaars en tentoonstellers’ is één doelgroep. Onde
 
 **3. Kunstenaars** 
 
-* Startfase_ 
-* Mid career fase_ 
-* Gevestigde fase_ 
+* Startfase
+* Mid career fase 
+* Gevestigde fase
 
 De doelgroep ‘Kunstenaars’ is onderverdeeld in drie verschillende subdoelgroepen: kunstenaars in de startfase, in de mid-career fase en de gevestigde fase. Een kunstenaar doorloopt in zijn loopbaan meerdere fases. De volgende fases zijn hier uitgezet: startfase, young-career fase, mid-career fase, gevestigde fase en de nabloeifase. De fases zijn wel onvoorspelbaar: ze duren niet even lang en niet iedere kunstenaar doorloopt de fases volgens schema (van den Borne, 2010). Omdat de young-career fase niet veel verschilt qua eigenschappen met de startfase en de nabloeifase in het verlengde ligt van de gevestigde fase, is er voor gekozen om deze twee fases weg te laten en te kiezen voor de bepaalde subdoelgroepen. 
 
