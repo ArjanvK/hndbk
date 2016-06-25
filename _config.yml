@@ -65,9 +65,8 @@ collections:
     permalink: "/:collection/:path/"
     meta:
       description: Visuele communicatie
-      badge: "/uploads/badge--style.svg"
-      in_nav: true
-    position: 60
+      badge: "[badge--style.svg](/uploads/badge--style.svg)"
+      in_nav: 'True'
   uploads:
     title: Uploads
     output: true
