@@ -5,7 +5,7 @@ position: 0
 layout: page
 ---
 
-Berentsen, M. (2014). Online kunst: een grenzeloos domein. Opgeroepen op februari 22, 2016, van Cultuur participatie:(http://www.cultuurparticipatie.nl/file/1430467485.7589PHOdeT/online-kunst-myrtheberentsen.pdf)
+Berentsen, M. (2014). Online kunst: een grenzeloos domein. Opgeroepen op februari 22, 2016, van Cultuur participatie[:(http://www.cultuurparticipatie.nl/file/1430467485.7589PHOdeT/online-kunst-myrtheberentsen.pdf)](http://www.cultuurparticipatie.nl/file/1430467485.7589PHOdeT/online-kunst-myrtheberentsen.pdf)
 
 Birkner, C. (2013, februari). The Power of Personas. Opgeroepen op februari 9, 2016, van American Marketing Association: https://www.ama.org/publications/MarketingNews/Documents/personas-marketing.pdf
 
