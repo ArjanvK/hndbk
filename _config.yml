@@ -1,7 +1,6 @@
 ---
-<<<<<<< HEAD
-title: Handboek Kunstplatform
-timezone: Europe/Amsterdam
+title: Handboek Kunst
+timezone: America/New_York
 collections:
   api:
     title: API
@@ -116,23 +115,12 @@ defaults:
   values:
     layout: page
     color: darkest-gray
-#url: http://docs.kunstuitleenzwolle.nl
+url: https://kunstuitleenzwolle.github.io/hndbk/
 permalink: pretty
-github_url: https://github.com/KunstuitleenZwolle/hndbk
+github_url: https://github.com/kunstuitleenzwolle/hndbk
 sass:
   style: compressed
 gems:
 - jekyll-sitemap
 - jekyll-seo-tag
 logo: "/assets/images/logo.svg"
-=======
-title: Hndbk
-timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
->>>>>>> origin/master
