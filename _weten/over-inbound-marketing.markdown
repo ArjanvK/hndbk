@@ -4,24 +4,11 @@ date: 2015-11-01 01:03:00 +01:00
 position: 7
 ---
 
-Siteleaf comes with support for [Sass and SCSS](http://sass-lang.com/) preprocessing right out of the box! It's pretty easy to get going, too: just put a `.scss` or `.sass` anywhere in your theme with added front matter to have Jekyll compile the Sass/SCSS to CSS. For example:
+**Wat is Inbound Marketing?**
 
-{% highlight sass %}
----
----
+In tegenstelling tot de oude ‘outboundmarketing’ methodes zoals het kopen van advertenties en emaillijsten, richt Inbound Marketing zich op het creëren van kwalitatief goede content wat er voor zorgt dat je doelgroepen vanzelf naar – in dit geval – het platform komen, omdat ze daar graag willen zijn. Door de content die geplaatst wordt te richten op de doelgroepen en hun interesses, creëer je natuurlijk ‘inboundverkeer’ dat volgens onderstaand schema benaderd kan worden (Hubspot). 
+ 
+Bij Inbound marketing gaat het juist om het ‘naar je toe trekken’ van consumenten door relevante en kwalitatief hoogwaardige content, we spreken hier dan ook van ‘earned en owned media’, ook wel user-generated content: aandacht voor jouw product, merk of bedrijf geproduceerd door derden zoals bijvoorbeeld bloggers (de Bakker, 2013).
 
-body
-  color: red
-{% endhighlight %}
 
-Saving this file to `assets/stylesheet.sass` will process it and create `assets/stylesheet.css` on your site.
-
-### Partials
-
-Any partials that you're importing with `@import` should be placed in the `_sass/` directory. All the files you put into this directory should begin with an underscore (e.g., `_sass/_header.sass`).
-
----
-
-### Further Reading
-
-- [Jekyll: Assets](https://jekyllrb.com/docs/assets/)
+![Inbound Marketing Funnel](http://www.eminentseo.com/wp-content/uploads/2014/08/Inbound-Marketing-Methodology-1020w.jpg)
