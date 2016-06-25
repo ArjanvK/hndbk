@@ -4,85 +4,35 @@ date: 2015-11-01 01:03:00 +01:00
 position: 6
 ---
 
-We recommend using [GitHub sync](/themes/github-sync/) for local development, but you can still use the Gem if that's your preferred workflow.
-{: .warning}
+De zakelijke kunstliefhebber
 
-The Siteleaf Ruby gem is open source, to fork and contribute see: <https://github.com/siteleaf/siteleaf-gem>
+**De persona Bert van Poorten**
 
-## Local development using the Siteleaf gem
+FOTO
 
-1) Create a file called `Gemfile` in your site's root folder and add the Siteleaf gem and Jekyll to your bundle:
+* Bert van Poorten 
+* 53 jaar
+* Getrouwd met Ingrid
+* Woonachtig in Zwolle, Wipstrik
+* Senior Curator ING
 
-{% highlight ruby %}
-source 'http://rubygems.org'
+Bert is een 53-jarige man uit Zwolle en is 25 jaar getrouwd met Ingrid. Samen met haar heeft hij twee kinderen: Lisa van 20 en Bas van 18. Samen met zijn gezin woont hij in een vrijstaand huis in de wijk Wipstrik in Zwolle. Bert werkt inmiddels al 15 jaar voor de ING Bank en houdt zich sinds 5 jaar ook bezig met de kunstcollectie van de organisatie. 
 
-gem 'siteleaf', '~>2'
-gem 'github-pages', group: :jekyll_plugins
-{% endhighlight %}
+Bert ziet het als zijn taak om kunst te vinden wat bij de organisatie past. Hij heeft zelf veel kennis en ervaring op het gebied van kunst, maar vindt het heel belangrijk dat de mening van andere medewerkers wordt gewaardeerd en meegenomen in de beslissingen. Op deze manier hoopt hij meer draagvlak te creëren voor kunst binnen een organisatie. Hij zou kunst graag verankeren in de bedrijfsvorming: bij een ander bestuur blijft de kunstcollectie wel voortbestaan. 
 
-<small>For help with Bundler or Gemfiles, please see: <http://bundler.io/gemfile.html></small>
+Bert ziet een hoop voordelen van de inbreng van kunst bij de ING. De collectie brengt medewerkers allereerst in aanraking met kunst. Daarnaast kan een bedrijfscollectie medewerkers anders naar hun werk laten kijken, de creativiteit in een organisatie bevorderen en een menselijk element in de bedrijfscultuur brengen. Ook het mecenaat - het actief ondersteunen van kunstenaars en de kunstwereld - is van oudsher een belangrijke motivatie om kunst te verzamelen. Deze ondersteuning noemt men ook wel 'corporate social responsiblity', de sociaal maatschappelijke verantwoordelijkheid van een organisatie. 
 
-2) Install the bundle:
+Bert is heel actief op social media. Hij twittert actief, volgt veel verschillende personen en heeft zelf ook veel volgers. Hij leest regelmatig blogs variërend van koken tot kunst. Bert is op doordeweekse dagen bijna 24/7 online, maar in de weekenden is dit minimaal. Websites bezoekt hij alleen als hij hier via één van zijn social media kanalen op terecht komt. 
 
-{% highlight bash %}
-$ gem install bundler
-$ bundle install
-{% endhighlight %}
 
-3) Authorize your Siteleaf account:
+## De customer journey van Bert
 
-{% highlight bash %}
-$ bundle exec siteleaf auth
-{% endhighlight %}
+|    DE PERSONA           |    Oriënteren                                                                                                                                               |    Lid worden                                                                                                   |    Lenen                                                                                                  |    Kopen                                                                                                                         |    Aanbevelen                                                                                                  |
+|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+|    CUSTOMER JOBS        |    Ik wil het imago van mijn   organisatie graag op een originele manier laten weerspiegelen.                                                               |    Ik vind het prettig als –   afgezonderd van het uitzoeken van kunst – alle randzaken worden geregeld.        |    Ik vind het belangrijk om   de medewerkers te betrekken bij het beslissingsproces.                     |    Ik wil graag met kunst een   investering doen in het bedrijf.                                                                 |    Ik wil mijn medewerkers   graag iets bijbrengen over kunst.                                                 |
+|    DOELEN               |    Door kunst te vinden wat   bij de organisatie past, hoop ik een bijdrage te doen aan het imago van de   organisatie.                                     |    Ik vind het prettig om   advies te krijgen over kunstkeuzes en wil het transport graag geregeld   hebben.    |    Door medewerkers inspraak   te geven hoop ik meer draagvlak te creëren voor kunst op de werkvloer.     |    Door regelmatig kunst te   kopen, kunnen we een mooie bedrijfscollectie opbouwen.                                             |    Ik zou het prettig vinden   als de medewerkers de waarde van kunst (meer) gaan inzien.                      |
+|    DE KUNSTUITLEEN      |    Gevonden worden                                                                                                                                          |    Werven                                                                                                       |    Activeren                                                                                              |    Vertrouwen, boeien, binden                                                                                                    |    Refereren                                                                                                   |
+|    ACTIVITEITEN         |    Social media berichten,   landingspagina met whitepaper over kunst in bedrijfsomgeving, social media   berichten, keywords over zakelijk kunst lenen.    |    Adviesgesprek, whitepaper   met informatie over wat de Kunstuitleen kan doen.                                |    Online galerij zodat   binnen de organisatie selectie gemaakt kan worden,                              |    Landingspagina met   whitepaper over kunstinvesteringen, emailnieuwsbrief met mogelijke   kunstwerken voor een collectie.     |    Medewerkers wijzen op   concept van Kunstuitleen, vertellen over de maatschappelijke waarde van   kunst.    |
+|    INSTRUMENT           |    Whitepaper   Landingspagina   Social   media   Keywords                                                                                                  |    Adviesgesprek   Whitepaper   Landingspagina                                                                  |    Whitepaper   Landingspagina   Online galerij                                                           |    Whitepaper   Landingspagina   Emailnieuwsbrief                                                                                |    Whitepaper   Emailnieuwsbrief   Rondleiding in   Kunstuitleen                                               |
+|        CONTENT          |    Een vliegende start voor   kunst op het werk                                                                                                             |    Zakelijk kunst lenen                                                                                         |    De invloed van kunst op   een werkomgeving                                                             |    Kunst als investering   5 redenen om een   kunstcollectie op te bouwen                                                        |    Welke invloed heeft kunst   op jou?   Corporate Social   Responsability                                     |
 
-4) Create or connect to a Siteleaf site:
-
-**To create a new Siteleaf site:**
-
-{% highlight bash %}
-$ bundle exec siteleaf new yoursite.com
-{% endhighlight %}
-
-This will create a new theme folder called `yoursite.com` in the directory where you ran this command. It will also create the site for you in your Siteleaf account. If you prefer not to create a new directory, run `bundle exec siteleaf new yoursite.com .` instead.
-
-**To use an existing Siteleaf site:**
-
-{% highlight bash %}
-$ bundle exec siteleaf config yoursite.com
-{% endhighlight %}
-
-You can then pull the Jekyll configuration, content, and current theme:
-
-{% highlight bash %}
-$ bundle exec siteleaf pull
-{% endhighlight %}
-
-5) Start the Jekyll server:
-
-{% highlight bash %}
-$ bundle exec jekyll serve
-{% endhighlight %}
-
-Now visit [localhost:4000](http://localhost:4000) to see your site!
-
-5) Push your content and theme to Siteleaf:
-
-{% highlight bash %}
-$ bundle exec siteleaf push
-{% endhighlight %}
-
-**Important:** When using `push`/`pull` in v2, both theme and content files are included. Always make sure to do a `pull` first to avoid overwriting your Siteleaf content on `push`. Your local directory must have a `_config.yml` in order to push.
-
-## Backing up your site
-
-Creating a full backup of your site is simple. Just copy your `Gemfile` to an empty directory and do a `pull`:
-
-{% highlight bash %}
-cp Gemfile /path/to/backup/
-cd /path/to/backup/
-bundle install
-bundle exec siteleaf config yoursite.com
-bundle exec siteleaf pull
-{% endhighlight %}
-
-This will include your entire site, including theme files, assets, content, and site metadata.
