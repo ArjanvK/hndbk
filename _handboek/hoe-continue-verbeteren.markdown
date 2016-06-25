@@ -1,5 +1,5 @@
 ---
-title: Collections
+title: Hoe continue verbeteren?
 date: 2015-12-17 14:02:00 +01:00
 position: 5
 ---
