@@ -11,3 +11,5 @@ Naast het inhoudelijke gedeelte van content is de vormgeving en het design ook h
 * Kleuren
 * Beeldafmetingen
 * Koppen
+
+[Voorstel huisstijlhandboek KUZ.pdf](/uploads/Voorstel%2520huisstijlhandboek%2520KUZ.pdf)
