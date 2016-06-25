@@ -1,5 +1,5 @@
 ---
-title: Bronnen
+title: Bibliografie
 permalink: "/bronnen/"
 position: 0
 layout: section
