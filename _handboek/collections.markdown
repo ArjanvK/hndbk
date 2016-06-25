@@ -1,6 +1,6 @@
 ---
 title: Collections
-date: 2015-12-17 08:02:00 -05:00
+date: 2015-12-17 14:02:00 +01:00
 position: 3
 ---
 

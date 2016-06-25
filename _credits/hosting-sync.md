@@ -1,6 +1,6 @@
 ---
 title: Hosting and Sync
-date: 2016-03-03 15:51:00 -05:00
+date: 2016-03-03 21:51:00 +01:00
 position: 12
 ---
 

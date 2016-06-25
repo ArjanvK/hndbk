@@ -1,6 +1,6 @@
 ---
 title: Intro to themes
-date: 2015-10-31 20:03:00 -04:00
+date: 2015-11-01 01:03:00 +01:00
 position: 1
 ---
 

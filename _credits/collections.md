@@ -1,6 +1,6 @@
 ---
 title: Collections
-date: 2016-01-14 17:29:00 -05:00
+date: 2016-01-14 23:29:00 +01:00
 position: 5
 example_input: |-
   {

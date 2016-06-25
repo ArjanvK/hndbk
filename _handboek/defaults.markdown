@@ -1,6 +1,6 @@
 ---
 title: Default fields
-date: 2016-05-25 22:00:00 -04:00
+date: 2016-05-26 04:00:00 +02:00
 position: 6
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Additional elements
-date: 2016-06-15 00:00:00 -04:00
+date: 2016-06-15 06:00:00 +02:00
 position: 2
 ---
 
