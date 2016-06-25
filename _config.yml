@@ -2,40 +2,40 @@
 title: Handboek Kunst
 timezone: Europe/Amsterdam
 collections:
-  api:
-    title: API
+  bronnen:
+    title: Bronnen
     output: true
     permalink: "/:collection/:path/"
     meta:
-      description: Integrate directly into your site or app
-      badge: "/uploads/badge--api.svg"
-      in_nav: true
-    position: 60
-  sites:
-    title: Deploy & Collaborate
-    output: true
-    permalink: "/:collection/:path/"
-    meta:
-      description: Publish your site and invite other users
-      badge: "/uploads/badge--sites.svg"
+      description: Overzicht van gebruikte bronnen voor dit handboek
+      badge: "/uploads/badge--bron.svg"
       in_nav: true
     position: 50
-  themes:
-    title: Developing Themes
+  credits:
+    title: Credits
     output: true
     permalink: "/:collection/:path/"
     meta:
-      description: Liquid, Sass, Jekyll, syncing, local dev
-      badge: "/uploads/badge--themes.svg"
+      description: Dankwoord aan alle betrokkenen
+      badge: "/uploads/badge--credits.svg"
       in_nav: true
-    position: 40
-  getting-started:
-    title: Getting Started
+    position: 70
+  handboek:
+    title: Handboek Kunst2.0
     output: true
     permalink: "/:collection/:path/"
     meta:
-      description: Learn more about Siteleaf itself
-      badge: "/uploads/badge--getting-started.svg"
+      description: Over klanten en hoe continue beter met hen te communiceren
+      badge: "/uploads/badge--handbook.svg"
+      in_nav: true
+    position: 30
+  leeswijzer:
+    title: Leeswijzer
+    output: true
+    permalink: "/:collection/:path/"
+    meta:
+      description: Leer meer over dit handboek zelf
+      badge: "/uploads/badge--lees.svg"
       in_nav: true
     position: 10
   v1:
@@ -45,27 +45,29 @@ collections:
     meta:
       description: Moving from v1 to v2
       badge: "/uploads/badge--v1.svg"
-      in_nav: true
+      in_nav: false
     position: 70
-  content:
-    title: Managing Content
+  weten:
+    title: Meer weten
     output: true
     permalink: "/:collection/:path/"
     meta:
-      description: Pages, collections, posts, metadata
-      badge: "/uploads/badge--content.svg"
+      description: Bijlagen, methodische verantwoording, achtergrondinformatie
+      badge: "/uploads/badge--more.svg"
       in_nav: true
-    position: 30
+    position: 40
   posts:
     title: Posts
     output: true
   style:
-    title: Style Guide
+    title: Stijlgids
     output: true
     permalink: "/:collection/:path/"
     meta:
-      description: A guide to Siteleaf style
-      in_nav: false
+      description: Beschrijving van onze huisstijl
+      badge: "/uploads/badge--style.svg"
+      in_nav: true
+    position: 60
   uploads:
     title: Uploads
     output: true
@@ -76,45 +78,46 @@ defaults:
     layout: page
 - scope:
     path: ''
-    type: getting-started
+    type: leeswijzer
   values:
     layout: page
     color: blue
 - scope:
     path: ''
-    type: content
+    type: handboek
   values:
     layout: page
-    color: green
+    color: blue
 - scope:
     path: ''
-    type: themes
+    type: weten
   values:
     layout: page
-    color: yellow
+    color: blue
 - scope:
     path: ''
-    type: sites
+    type: bronnen
   values:
     layout: page
-    color: red
+    color: blue
 - scope:
     path: ''
-    type: api
+    type: credits
   values:
     layout: page
-    color: purple
+    color: blue
 - scope:
     path: ''
     type: v1
   values:
     layout: page
+    color: blue
 - scope:
     path: ''
     type: style
   values:
     layout: page
-    color: darkest-gray
+    color: blue
 url: https://kunstuitleenzwolle.github.io/hndbk/
 permalink: pretty
 github_url: https://github.com/kunstuitleenzwolle/hndbk
@@ -123,4 +126,4 @@ sass:
 gems:
 - jekyll-sitemap
 - jekyll-seo-tag
-logo: "/assets/images/logo.svg"
+logo: "/assets/images/Logo_KUZ.svg"
