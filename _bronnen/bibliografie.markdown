@@ -46,7 +46,7 @@ van Lent, D., & Smallenburg, S. (2016, januari 14). Ruimtes voor kunstexperiment
 
 Vinken, J. (2010, november 29). E-culture. Opgeroepen op februari 18, 2016, van Rijksoverheid: [https://www.rijksoverheid.nl/.../e-cultuur-vinken.pdf](https://www.rijksoverheid.nl/.../e-cultuur-vinken.pdf)
 
-We Like Art. (2015, juni 26). Onderzoek: 39% van de kunstkopers koopt online kunst | belang van online kunstmarkt groeit. Opgeroepen op februari 18, 2016, van We Like Art: [http://www.welikeart.nl/2015/06/26/uitslag-onderzoek-online-kunst-verkoop/?utm_source=MEST+trends+&+ontwikkelingen&utm_campaign=fb3b786d69-trends_ontwikkelingen_3_juli_2015&utm_medium=email&utm_term=0_3c44298d8e-fb3b786d69-421144385](http://www.welikeart.nl/2015/06/26/uitslag-onderzoek-online-kunst-verkoop/?utm_source=MEST+trends+&+ontwikkelingen&utm_campaign=fb3b786d69-trends_ontwikkelingen_3_juli_2015&utm_medium=email&utm_term=0_3c44298d8e-fb3b786d69-421144385)
+We Like Art. (2015, juni 26). Onderzoek: 39% van de kunstkopers koopt online kunst, belang van online kunstmarkt groeit. Opgeroepen op februari 18, 2016, van We Like Art: [http://www.welikeart.nl/2015/06/26/uitslag-onderzoek-online-kunst-verkoop/?utm_source=MEST+trends+&+ontwikkelingen&utm_campaign=fb3b786d69-trends_ontwikkelingen_3_juli_2015&utm_medium=email&utm_term=0_3c44298d8e-fb3b786d69-421144385](http://www.welikeart.nl/2015/06/26/uitslag-onderzoek-online-kunst-verkoop/?utm_source=MEST+trends+&+ontwikkelingen&utm_campaign=fb3b786d69-trends_ontwikkelingen_3_juli_2015&utm_medium=email&utm_term=0_3c44298d8e-fb3b786d69-421144385)
 
 **Rapporten**
 
