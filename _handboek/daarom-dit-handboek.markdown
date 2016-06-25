@@ -1,5 +1,5 @@
 ---
-title: Pages
+title: Daarom dit handboek
 date: 2015-11-03 14:02:00 +01:00
 position: 1
 ---
