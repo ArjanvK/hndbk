@@ -1,7 +1,7 @@
 ---
 title: Dit is onze klant
 date: 2016-06-25 19:42:00 +02:00
-position: 3
+position: 1
 ---
 
 Wie is onze klant?\

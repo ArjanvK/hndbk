@@ -1,7 +1,7 @@
 ---
 title: Dit doet onze klant
 date: 2016-06-25 19:45:00 +02:00
-position: 1
+position: 2
 ---
 
 Als de verschillende doelgroepen in kaart zijn gebracht weten we wat hun eigenschappen, gewoontes en pijnpunten zijn. Maar hoe handelen deze personen in verschillende situaties? En hoe kunnen we hier als Kunstuitleen op inspelen?
