@@ -1,7 +1,7 @@
 ---
 title: Daarom dit handboek
 date: 2015-11-03 14:02:00 +01:00
-position: 2
+position: 1
 ---
 
 In de afgelopen crisisjaren is door zowel Rijksoverheid als lokale overheden hard bezuinigd op de kunst- en cultuursector (Bogaart & van der Horst, 2011). De bezuinigingen houden in dat subsidies worden beëindigd of verminderd voor culturele activiteiten en instellingen. Hierdoor werden veel kunstinstellingen gedwongen hun deuren te sluiten. Deze sluitingen zorgden op hun beurt weer voor het verdwijnen van veel beurzen, expositieruimtes, kunstprijzen, magazines, kunstblogs en events – de kunst ondersteunende infrastructuur - waardoor in het verleden het kunstminnend publiek in contact kwam met beeldende kunst. Door dit domino-effect is een groot deel van de kunst ondersteunende infrastructuur op het gebied van marketing/communicatie weggevallen (van Lent & Smallenburg, 2016). De effecten hiervan zijn groot voor beeldend kunstenaars. Doordat vele presentatie-instellingen moeten sluiten, worden de expositiemogelijkheden voor hen steeds geringer (van Lent & Smallenburg, 2016).
