@@ -4,20 +4,30 @@ date: 2015-11-01 01:03:00 +01:00
 position: 8
 ---
 
-### Sitemaps
 
-If you have a large site, you may want to have a sitemap.
 
-To enable sitemaps, head into your Site Settings and add a new [list metadata](/content/metadata/#list) called `gems`, with an entry called `jekyll-sitemap`. Save, publish, and you're done! This will automatically create a `/sitemap.xml` for you.
-
-![Enabling sitemaps](/uploads/jekyll-sitemap.png)
-
-For more info, view the [jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap) docs.
-
-### Feeds
-
-Adding an Atom or RSS feed is similar to adding a sitemap.
-
-Head into your Site Settings and add a new [list metadata](/content/metadata/#list) called `gems`, with an entry called `jekyll-feed`. Save, publish, and you're done! This will automatically create a `feed.xml` file for you.
-
-For more info, view the [jekyll-feed](https://github.com/jekyll/jekyll-feed) docs.
+|    SITE/PERSOON                             |    CONTACT                                                     |
+|---------------------------------------------|----------------------------------------------------------------|
+|    1. Kunstinzicht.nl                       |    info@kunstinzicht.nl                                        |
+|    2. Galeries.nl                           |    Benno Tutein Nolthenius info@galeries.nl                    |
+|    3. Kunst.blog.nl                         |    José van der Wegen   (jose.van.der.wegen@blog.nl            |
+|    4. Artsy.nl                              |    @jeroenvr (twitter); ARTSYnl@gmail.com                      |
+|    5. Amateurkunst.stadkamer.nl             |    amateur@stadkamer.nl                                        |
+|    6. Cultuurmarketing.nl                   |    info@cultuurmarketing.nl                                    |
+|    7. Dutch Art Today                       |    @Dutch_Art_Today                                            |
+|    8. Online Galerij                        |    info@onlinegalerij.nl                                       |
+|    9. Mieke Siemons (KNOCKart)              |    @Mieke_Siemons; info@knockart.nl                            |
+|    10. KunstNetwerkNL                       |    @KunstNetwerk                                               |
+|    11. ArtsHolland                          |    ArtsHollandDev                                              |
+|    12. Volkskrant Kunst                     |                                                                |
+|    13. KunstKrant                           |    redactie@kunstkrant.com                                     |
+|    14. Dutch-Art                            |    @nedkunst                                                   |
+|    15. Platform BK                          |    info@platformbk.nl                                          |
+|    16. Thea Gerritsen                       |    @GerritsenThea                                              |
+|    17. Artnieuws.com                        |    mail@artnieuws.nl                                           |
+|    18. Lost-painters.nl                     |    Niek Hendrix (lost-painters.nl)                             |
+|    19. We Like Art!                         |    Carolien Smit & Michiel Hogenboom (contact@welikeart.nl)    |
+|    20. ARTtube                              |    @ARTtube_NL                                                 |
+|    21. Art Addicts NL                       |    @artaddictsnl                                               |
+|    22. See All This                         |    info@seeallthis.com                                         |
+|    23. Ralph Keuning   (Fundatie Zwolle)    |    @ralphkeuning                                               |
