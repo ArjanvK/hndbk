@@ -1,6 +1,7 @@
 ---
 title: Visuele stijlgids
 date: 2016-06-25 20:36:00 +02:00
+permalink: "/stijlgids"
 layout: page
 ---
 
