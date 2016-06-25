@@ -1,7 +1,7 @@
 ---
 title: Default fields
 date: 2016-05-26 04:00:00 +02:00
-position: 6
+position: 7
 ---
 
 Instead of defining fields each time you create a page, post, or document, you can set defaults in your `_config.yml` theme file. In most cases, it'll be handy to set at least the default layout.
