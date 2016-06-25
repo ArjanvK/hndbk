@@ -1,5 +1,5 @@
 ---
-title: Siteleaf Learn
+title: Handboek Kunstplatform
 timezone: America/New_York
 collections:
   api:
@@ -115,9 +115,9 @@ defaults:
   values:
     layout: page
     color: darkest-gray
-url: http://learn.siteleaf.com
+#url: http://docs.kunstuitleenzwolle.nl
 permalink: pretty
-github_url: https://github.com/siteleaf/learn.siteleaf.com
+github_url: https://github.com/KunstuitleenZwolle/hndbk
 sass:
   style: compressed
 gems:
