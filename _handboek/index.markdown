@@ -1,7 +1,7 @@
 ---
 title: Handboek Kunst2.0
 permalink: "/handboek/"
-position: 0
+position: 2
 layout: section
 ---
 
