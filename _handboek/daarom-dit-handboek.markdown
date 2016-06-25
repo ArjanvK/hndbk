@@ -11,7 +11,7 @@ Deze verschuiving geldt ook voor de wereld van de kunst. Waar een kunstbemiddela
 
 Uit onderzoek blijkt dat het belang van de online kunstmarkt groeit. 39% van de kunstkopers kocht de afgelopen drie jaar online kunst op basis van digitale informatie, dus zonder het werk eerst in het echt gezien te hebben. Vergelijkbaar onderzoek uit het verleden toont een flinke stijging aan. In 2014 gaf 33% van de Nederlandse kunstkopers aan wel eens online kunst te hebben gekocht. In 2010 was dit aantal 13% en in 2006 9%. Online kunst aanbieders zijn een toevoeging voor de zichtbaarheid en de verspreiding van beeldende kunst en vormen geen bedreiging maar juist een toegevoegde waarde voor galeries. Beginnende en ervaren kunstkopers kunnen online eenvoudiger nieuwe kunstenaars ontdekken. Veel jonge kunstkopers weten de weg te vinden naar online aankopen (We Like Art, 2015). 65% van de kunstkopers bezoeken regelmatig online kunstplatforms.
 
-**Digitalisering**
+## Digitalisering
 De gevolgen van het digitaliseren van de samenleving zijn ook op het gebied van (beeldende) kunst goed te zien. Digitalisering is het omzetten van data en gegevens van een analoog naar een digitaal medium. Digitalisering heeft invloed op het maakproces dat goedkoper, eenvoudiger, individueler is; op de distributie, die eenvoudiger, flexibeler en via vele kanalen mogelijk is. Kunsten dringen sterker dan ooit door tot de samenleving. Niet eerder was het culturele aanbod zo breed en uitbundig, van mondiaal tot lokaal niveau. De kunsten hebben hun betekenis onder invloed van digitalisering niet verloren, maar tonen deze met andere middelen en via vele media (Raad van Cultuur, 2014).
 
 **E-culture**
