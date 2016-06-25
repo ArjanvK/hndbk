@@ -66,8 +66,7 @@ collections:
     meta:
       description: Visuele communicatie
       badge: "[badge--style.svg](/uploads/badge--style.svg)"
-      in_nav: True
-    position: 60
+      in_nav: 'True'
   uploads:
     title: Uploads
     output: true
