@@ -1,6 +1,7 @@
 ---
 title: Hoe te optimaliseren
 date: 2016-06-25 23:27:00 +02:00
+position: 6
 ---
 
 De stappen en onderdelen die staan beschreven in dit handboek dragen bij aan het onderhouden en vergroten van Kunst 2.0. Het is een continu doorlopend proces van optimalisatie. We leren de doelgroepen steeds beter kennen, krijgen steeds meer inzicht in hun wensen en behoeften en weten ook steeds beter hoe we hier op in moeten spelen. De mate van personificatie wordt steeds hoger. 
