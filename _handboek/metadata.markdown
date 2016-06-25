@@ -80,4 +80,4 @@ Een online influencer is zeer waardevol. Zij zijn verantwoordelijk voor een groo
 
 Om met deze online influencers een band op te bouwen is het belangrijk om de conversatie aan te gaan. Meng je in online discussies van deze personen en wordt zelf onderdeel van deze groep. Hierbij is het belangrijk om te reageren op posts, comments en likes. 
 
-Via de tools [Peerreach](https://peerreach.com/lists/arts/) en [Klout](https://klout.com/home) kan in kaart worden gebracht welke influencers op het gebied van – in dit geval – kunst veel online invloed hebben. In de bijlagen is een lijst met invloedrijke personen op het gebied van kunst te vinden. 
+Via de tools [Peerreach](https://peerreach.com/lists/arts/) en [Klout](https://klout.com/home) kan in kaart worden gebracht welke influencers op het gebied van – in dit geval – kunst veel online invloed hebben. Onder het kopje 'Meer weten' is een lijst met invloedrijke personen op het gebied van kunst te vinden. 
