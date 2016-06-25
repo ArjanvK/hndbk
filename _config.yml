@@ -67,7 +67,6 @@ collections:
       description: Visuele communicatie
       badge: "[badge--style.svg](/uploads/badge--style.svg)"
       in_nav: 'True'
-      position: 60
   uploads:
     title: Uploads
     output: true
