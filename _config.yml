@@ -59,7 +59,7 @@ collections:
   posts:
     title: Posts
     output: true
-  stijlgids:
+  style:
     title: Stijlgids
     output: true
     permalink: "/:collection/:path/"
