@@ -1,6 +1,6 @@
 ---
 title: Handboek Kunst
-timezone: America/New_York
+timezone: Europe/Amsterdam
 collections:
   api:
     title: API
