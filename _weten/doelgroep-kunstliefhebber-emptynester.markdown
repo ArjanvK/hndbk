@@ -1,5 +1,5 @@
 ---
-title: Doelgroep kunstliefhebber 'empty nester'
+title: Kunstliefhebber 'empty nester'
 date: 2015-11-01 01:03:00 +01:00
 position: 4
 ---
