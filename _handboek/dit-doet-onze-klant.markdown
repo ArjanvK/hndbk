@@ -3,13 +3,12 @@ title: Dit doet onze klant
 date: 2016-06-25 19:45:00 +02:00
 ---
 
-Wat doen onze klanten?
 Als de verschillende doelgroepen in kaart zijn gebracht weten we wat hun eigenschappen, gewoontes en pijnpunten zijn. Maar hoe handelen deze personen in verschillende situaties? En hoe kunnen we hier als Kunstuitleen op inspelen?
 
-## Offline versus online
+**Offline versus online**
 In de fysieke Kunstuitleen is het gebruikelijk om als klant informatie te vragen aan het winkelpersoneel. De winkelmedewerker kan de klant advies geven en helpen met wensen of problemen. Heeft de persona Carine tips nodig om een kunstwerk op te hangen, dan vraagt zij dit rechtstreeks aan de winkelmedewerker. Online werkt dit anders. Het is de taak aan de Kunstuitleen om te achterhalen waar de klant tegenaan loopt en wat zij verwachten van het online platform. Om in te schatten hoe de Kunstuitleen Carine van dienst kan zijn, is het belangrijk om de verschillende stappen of fases van Carine in kaart brengen. De verschillende fases die Carine doorloopt voordat ze overgaat tot een aankoop noemen we de customer journey – ook wel de klantreis genoemd. Dit begint bij een eerste kennismaking met de Kunstuitleen en kan doorlopen tot een aankoop of zelfs het aanbevelen van de Kunstuitleen bij vrienden of familie. De customer journey geeft een totaalbeeld van de interactie tussen de Kunstuitleen en de klant. Het in kaart brengen van deze klantreis noemen we ook wel een Customer Journey Map (van der Steen, 2014). 
 
-## Customer Journey Map
+**Customer Journey Map**
 Een Customer Journey Map helpt om het grotere beeld te zien en om besluiten te nemen over waar de focus activiteiten liggen. De uitkomsten van deze methode zorgen er onder andere voor dat duidelijk wordt waar de pijnpunten en behoeften van de verschillende doelgroepen liggen (O'Connor, 2015). 
 
 Op basis van de gegevens van de verschillende persona’s kan per persona de customer journey in kaart worden gebracht. Een Customer Journey Map is opgedeeld in de verschillende fases die de klant doorloopt. Voor de doelgroepen van de Kunstuitleen zijn er vijf verschillende fases te onderscheiden. In het klantproces doorlopen zij deze stappen.
