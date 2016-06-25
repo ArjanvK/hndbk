@@ -68,6 +68,9 @@ collections:
       badge: "/uploads/badge--style.svg"
       in_nav: true
     position: 60
+  stijlgids:
+    title: Stijlgids
+    output: true
   uploads:
     title: Uploads
     output: true
