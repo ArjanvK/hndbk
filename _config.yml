@@ -65,8 +65,8 @@ collections:
     permalink: "/:collection/:path/"
     meta:
       description: Visuele communicatie
-    badge:
-      badge: 
+    Field name:
+      description: 
   uploads:
     title: Uploads
     output: true
