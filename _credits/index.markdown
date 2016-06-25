@@ -11,4 +11,4 @@ Het neerzetten van dit online handboek had ik natuurlijk nooit helemaal alleen k
 
 Denise Damman
 
-[Voorstel huisstijlhandboek KUZ.pdf](/uploads/Voorstel%2520huisstijlhandboek%2520KUZ.pdf)
+![personacarine.png](/uploads/personacarine.png)
