@@ -22,15 +22,11 @@ Op basis van de gegevens van de verschillende persona’s kan per persona de cus
 
 Worden deze fases vanuit het opzicht van de Kunstuitleen bekeken, dan worden de volgende fases gedefinieerd:
 
-* Gevonden worden <br/>
-
-* Werven <br/>
-
-* Activeren <br/>
-
-* Vertrouwen, boeien, binden <br/>
-
-* Refereren <br/>
+* Gevonden worden 
+* Werven 
+* Activeren 
+* Vertrouwen, boeien, binden 
+* Refereren 
 
 Om één lijn te trekken, wordt aan de hand van de persona Carine de Customer Journey Map toegelicht. De Customer Journey Maps van de andere doelgroepen staan in de bijlagen beschreven.
 
