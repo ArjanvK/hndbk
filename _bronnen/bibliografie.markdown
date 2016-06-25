@@ -2,7 +2,7 @@
 title: Bibliografie
 permalink: "/bronnen/"
 position: 0
-layout: section
+layout: page
 ---
 
 Berentsen, M. (2014). Online kunst: een grenzeloos domein. Opgeroepen op februari 22, 2016, van Cultuur participatie:(http://www.cultuurparticipatie.nl/file/1430467485.7589PHOdeT/online-kunst-myrtheberentsen.pdf)
