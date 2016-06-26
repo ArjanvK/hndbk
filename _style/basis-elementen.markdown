@@ -3,6 +3,15 @@ title: Basis elementen
 date: 2016-06-26 14:21:00 +02:00
 ---
 
+Naast het inhoudelijke gedeelte van content is de vormgeving en het design ook heel belangrijk. Dit is vaak het eerste wat de lezer ziet. Het is belangrijk dat ook de visuele communicatie constant en eenduidig is. Lezers en bezoekers moeten de huisstijl kunnen herkennen en niet continu verschillende kleuren, fonts of lettertypen voorgeschoteld krijgen. Op deze pagina vind je richtlijnen op het gebied van de huisstijl. Elementen die hierbij aan bod komen zijn 
+
+Het gebruik van lettertype(n)
+Fontstijlen (normaal, cursief, vet)
+Kleuren
+Beeldafmetingen
+Koppen
+
+
 
 Siteleaf uses [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). Basic elements include:
 
