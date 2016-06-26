@@ -17,12 +17,12 @@ Met vriendelijke groet,
 
 Kunstuitleen Zwolle
 
-**1 Wat is uw geslacht?** 
+1 Wat is uw geslacht? 
 
 * Man
 * Vrouw
 
-**2 Wat is uw leeftijd? **
+2 Wat is uw leeftijd? 
 
 * < 25 jaar 
 * 25-35 jaar 
@@ -31,7 +31,7 @@ Kunstuitleen Zwolle
 * 56-65 jaar 
 * 65> jaar 
 
-**3 Uit hoeveel personen bestaat uw huishouden? **
+3 Uit hoeveel personen bestaat uw huishouden? 
 
 * 1 persoon 
 * 2 personen 
@@ -39,7 +39,7 @@ Kunstuitleen Zwolle
 * 4 personen 
 * Meer dan 4 personen 
 
-**4 Hoe bent u met de Kunstuitleen in aanraking gekomen? **
+4 Hoe bent u met de Kunstuitleen in aanraking gekomen? 
 
 * Internet 
 * Familie/vrienden 
