@@ -4,7 +4,7 @@ date: 2015-11-01 01:03:00 +01:00
 position: 6
 ---
 
-De zakelijke kunstliefhebber
+Op deze pagina zijn zowel de persona als de customer journey van de zakelijke kunstliefhebber te vinden. 
 
 **De persona Bert van Poorten**
 

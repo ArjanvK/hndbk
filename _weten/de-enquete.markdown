@@ -4,6 +4,9 @@ date: 2016-03-24 17:15:00 +01:00
 position: 10
 ---
 
+Op deze pagina is de volledige enquête te vinden, die is gebruikt om de persona's te valideren. 
+
+
 Beste bezoeker van Kunstuitleen Zwolle,
 
 Wij willen u in de toekomst nog beter van dienst zijn en onderzoeken de wensen en behoeften van de kunstliefhebbers die bij ons huren en kopen. Graag vragen wij u deze enquête in te vullen. Het beantwoorden van de vragen duurt nog geen 5 minuten en uw gegevens worden volledig anoniem verwerkt.
