@@ -10,5 +10,4 @@ In tegenstelling tot de oude ‘outboundmarketing’ methodes zoals het kopen va
  
 Bij Inbound marketing gaat het juist om het ‘naar je toe trekken’ van consumenten door relevante en kwalitatief hoogwaardige content, we spreken hier dan ook van ‘earned en owned media’, ook wel user-generated content: aandacht voor jouw product, merk of bedrijf geproduceerd door derden zoals bijvoorbeeld bloggers (de Bakker, 2013). 
 
-
-![Inbound Marketing Funnel](http://www.eminentseo.com/wp-content/uploads/2014/08/Inbound-Marketing-Methodology-1020w.jpg)
+![inbound-marketing.jpg](/uploads/inbound-marketing.jpg)
