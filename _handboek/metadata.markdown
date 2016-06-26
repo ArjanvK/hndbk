@@ -8,7 +8,7 @@ prep time: blah
 Door het in kaart brengen van de Customer Journey hebben we inzicht verkregen in de manieren waarop we de doelgroepen kunnen voorzien van informatie. In dit hoofdstuk wordt toegelicht hoe we de doelgroepen kunnen bereiken en hoe deze content eruit ziet. Deze stappen samen geven een duidelijk beeld van de communicatie met doelgroepen van de Kunstuitleen. 
 
 ## Het creëren van content 
-Bij het schrijven van de content komen een aantal elementen naar voren die er voor zorgen dat de informatie nog beter gericht wordt op de doelgroep waarvoor het bedoeld is. Deze elementen zijn gericht op de schrijfstijl, de visuele stijl en zoekwoorden. 
+Bij het schrijven van de content komen een aantal elementen naar voren die er voor zorgen dat de informatie nog beter gericht wordt op de doelgroep waarvoor het bedoeld is. Deze elementen zijn gericht op de schrijfstijl en zoekwoorden. De huisstijl van Kunstuitleen Zwolle - die ook wordt gebruikt bij het creëren van content - is te vinden in de [Stijlgids](http://hndbk.siteleaf.net/style/). 
 
 ### Tone of voice
 Bij het creëren van content is het belangrijk dat de lezer het gevoel heeft dat de tekst voor hem of haar is geschreven. Het moet een gevoel oproepen van: ‘daar heb ik ook last van, dit is precies wat ik nodig heb’. Erken het probleem van de lezer, maak het herkenbaar en biedt vervolgens de oplossing. 
@@ -34,7 +34,7 @@ Als voorbeeld gebruiken we Carine. Carine is op zoek naar een nieuw kunstwerk, m
 Door de gevonden zoekwoorden te verwerken in de content vergroot je de kans dat Carine in aanraking komt met Kunstuitleen Zwolle. 
 
 ## Het verspreiden van content
-Zodra de content is ontwikkeld, willen we dit gaan delen met de verschillende doelgroepen. Voor de verspreiding van de content werken we volgens de Inbound Marketing Funnel. Onder het kopje ['Meer weten'](hndbk.siteleaf.net/weten/over-inbound-marketing/) is te vinden wat Inbound Marketing precies inhoudt. 
+Zodra de content is ontwikkeld, willen we dit gaan delen met de verschillende doelgroepen. Voor de verspreiding van de content werken we volgens de Inbound Marketing Funnel. [Hier](http://hndbk.siteleaf.net/weten/over-inbound-marketing/) is te vinden wat Inbound Marketing precies inhoudt. 
 
 
 ### Landingspagina's
@@ -42,7 +42,8 @@ De content die is ontwikkeld moet vervolgens worden gedeeld met de doelgroep waa
 
 Via het online programma [Unbounce](www.unbounce.com) kun je zelf landingspagina’s ontwikkelen. Bij het ontwikkelen van een landingspagina vormen een aantal elementen de fundering van de pagina. De volgende elementen zijn belangrijk: 
 
-Call to Actions (CTA’S)
+**Call to Actions (CTA’S)**
+
 Een belangrijk punt wat terug moet komen op vrijwel iedere landingspagina of in iedere emailnieuwsbrief zijn ‘Call-to-Actions’ (CTA’s). Een call-to-action is een afbeelding of regel tekst waarin bezoekers wordt gevraagd om een actie te ondernemen. Deze acties kunnen variëren van het downloaden van een whitepaper tot het bijwonen van een evenement (Soskey, 2013).
 
 De volgende elementen zijn belangrijk bij het opstellen van een effectieve CTA:
@@ -56,16 +57,16 @@ Bezoekers moeten precies weten wat er gebeurt zodra ze op een CTA klikken. Zorg 
 * **Een specifieke landingspagina per CTA** <br/>
 Een CTA is het meest effectief als bezoekers na een klik belanden op een daarvoor bestemde landingspagina. Wordt er geklikt op een CTA voor het downloaden van een whitepaper, dan is het mooi als de bezoeker ook terecht komt op een landingspagina gericht op deze whitepaper (Soskey, 2013). 
 
-Unique Selling Points (USP’s)
-Het is belangrijk om op de landingspagina te laten zien waarom ze nou juist bij Kunstuitleen Zwolle moeten zijn. Wat kun jij de bezoeker nou bieden als Kunstuitleen Zwolle wat andere partijen niet doen? Het mooiste is om de USP’s naar voren te laten komen via de titel of de subtitel, omdat dit één van de eerste dingen is die de bezoeker van de pagina ziet. De boodschap moet sterk genoeg zijn om de bezoeker te laten zien dat ze op de juiste plaats zijn. 
+**Unique Selling Points (USP’s)
+**Het is belangrijk om op de landingspagina te laten zien waarom ze nou juist bij Kunstuitleen Zwolle moeten zijn. Wat kun jij de bezoeker nou bieden als Kunstuitleen Zwolle wat andere partijen niet doen? Het mooiste is om de USP’s naar voren te laten komen via de titel of de subtitel, omdat dit één van de eerste dingen is die de bezoeker van de pagina ziet. De boodschap moet sterk genoeg zijn om de bezoeker te laten zien dat ze op de juiste plaats zijn. 
 
 ![Indeling landingspagina](https://placester.com/wp-content/uploads/2015/02/real-estate-website-conversion-kissmetrics-landing-page-infographic.png)
 
-Hero shot
+**Hero shot**
 De hero shot is de visuele weergave van jouw aanbieding. Een grote afbeelding of video kunnen er voor zorgen dat in één oogopslag duidelijk is waar de landingspagina voor staat. Een foto zegt immers meer dan duizend woorden. 
 
 ### Assets
-Zoals hierboven is beschreven is het principe van een landingspagina eigenlijk een ‘ruilsysteem’. Als Kunstuitleen krijgen wij gegevens van de bezoeker in ruil voor informatie. Deze informatie kan variëren: van whitepapers tot video’s tot praktische tips. De informatie die de bezoeker terugkrijgt noemen we ook wel assets. Deze assets spelen in op de behoefte van de bezoeker zoals deze staat beschreven in de customer journey map. In de bijlagen zijn drie voorbeelden van assets te vinden. Deze whitepapers en tips zijn ontwikkeld via [Google Docs](https://docs.google.com/document/u/0/?pli=1&showDriveBanner=true#), maar zijn ook eenvoudig te maken in programma’s als Microsoft Word
+Zoals hier boven is beschreven is het principe van een landingspagina eigenlijk een ‘ruilsysteem’. Als Kunstuitleen krijgen wij gegevens van de bezoeker in ruil voor informatie. Deze informatie kan variëren: van whitepapers tot video’s tot praktische tips. De informatie die de bezoeker terugkrijgt noemen we ook wel assets. Deze assets spelen in op de behoefte van de bezoeker zoals deze staat beschreven in de customer journey map. In de bijlagen zijn drie voorbeelden van assets te vinden. Deze whitepapers en tips zijn ontwikkeld via [Google Docs](https://docs.google.com/document/u/0/?pli=1&showDriveBanner=true#), maar zijn ook eenvoudig te maken in een programma als Microsoft Word
 
 ### Social media
 De bezoekers belanden natuurlijk niet zomaar op een landingspagina. Ze moeten daar als het ware naar toe geleid worden. Een goede methode om dit online te doen is via social media. Via de social media kanalen als [Facebook](https://www.facebook.com/Kunstuitleenzwolle/?fref=ts) en [Twitter](https://twitter.com/Kunstuitleen) kunnen (potentiële) bezoekers naar de landingspagina worden gestuurd. Het is slim om één boodschap te verspreiden, maar wel door dit op ieder kanaal verschillend te formuleren. Op Twitter kun je berichten met maximaal 140 leestekens verspreiden. Hierbij is het dus belangrijk om alleen de kernboodschap te formuleren. Op Facebook zijn de berichten al langer, maar is het belangrijk om niet alles prijs te geven: je wilt immers dat de lezer doorgaat naar de landingspagina. Als alle informatie al op Facebook wordt vermeld, blijft er niets nieuws of verrassends over. De social media kanalen zijn als het ware de methode om interesse te wekken. 
@@ -80,4 +81,4 @@ Een online influencer is zeer waardevol. Zij zijn verantwoordelijk voor een groo
 
 Om met deze online influencers een band op te bouwen is het belangrijk om de conversatie aan te gaan. Meng je in online discussies van deze personen en wordt zelf onderdeel van deze groep. Hierbij is het belangrijk om te reageren op posts, comments en likes. 
 
-Via de tools [Peerreach](https://peerreach.com/lists/arts/) en [Klout](https://klout.com/home) kan in kaart worden gebracht welke influencers op het gebied van – in dit geval – kunst veel online invloed hebben. Onder het kopje 'Meer weten' is een lijst met invloedrijke personen op het gebied van kunst te vinden. 
+Via de tools [Peerreach](https://peerreach.com/lists/arts/) en [Klout](https://klout.com/home) kan in kaart worden gebracht welke influencers op het gebied van – in dit geval – kunst veel online invloed hebben. [Hier](http://hndbk.siteleaf.net/weten/online-influencers/) is een lijst met invloedrijke personen op het gebied van kunst te vinden. 
