@@ -6,7 +6,7 @@ layout: default
   {% include sidebar.html %}
   <article class="article">
     <section class="article__content">
-      <h3>Inhoud:</h3>
+      <h3>Contents</h3>
       <ol class="collection__toc">
         {% assign documents = site[page.collection] | sort:"position" %}
         {% for document in documents %}
