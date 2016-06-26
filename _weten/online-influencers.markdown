@@ -4,7 +4,7 @@ date: 2015-11-01 01:03:00 +01:00
 position: 8
 ---
 
-Op deze pagina is de lijst met online influencers te vinden. In de lijst staan 23 influencers met naam, emailadres of Twitter account vermeld. 
+Op deze pagina is de lijst met online influencers te vinden. In de lijst staan 23 influencers met naam, emailadres en/of Twitter account vermeld. 
 
 |    SITE/PERSOON                             |    CONTACT                                                     |
 |---------------------------------------------|----------------------------------------------------------------|
