@@ -5,7 +5,7 @@ position: 4
 prep time: blah
 ---
 
-Door het in kaart brengen van de Customer Journey hebben we inzicht verkregen in de manieren waarop we de doelgroepen kunnen voorzien van informatie. In dit hoofdstuk wordt toegelicht hoe we de doelgroepen kunnen bereiken en hoe deze content eruit ziet. Deze stappen samen geven een duidelijk beeld van de communicatie met doelgroepen van de Kunstuitleen. 
+Door het in kaart brengen van de customer journey hebben we inzicht verkregen in de manieren waarop we de doelgroepen kunnen voorzien van informatie. In dit hoofdstuk wordt toegelicht hoe we de doelgroepen kunnen bereiken en hoe deze content eruit ziet. Deze stappen samen geven een duidelijk beeld van de communicatie met doelgroepen van de Kunstuitleen. 
 
 ## Het creëren van content 
 Bij het schrijven van de content komen een aantal elementen naar voren die er voor zorgen dat de informatie nog beter gericht wordt op de doelgroep waarvoor het bedoeld is. Deze elementen zijn gericht op de schrijfstijl en zoekwoorden. De huisstijl van Kunstuitleen Zwolle - die ook wordt gebruikt bij het creëren van content - is te vinden in de [Stijlgids](http://hndbk.siteleaf.net/style/). 
@@ -57,12 +57,14 @@ Bezoekers moeten precies weten wat er gebeurt zodra ze op een CTA klikken. Zorg 
 * **Een specifieke landingspagina per CTA** <br/>
 Een CTA is het meest effectief als bezoekers na een klik belanden op een daarvoor bestemde landingspagina. Wordt er geklikt op een CTA voor het downloaden van een whitepaper, dan is het mooi als de bezoeker ook terecht komt op een landingspagina gericht op deze whitepaper (Soskey, 2013). 
 
-**Unique Selling Points (USP’s)
-**Het is belangrijk om op de landingspagina te laten zien waarom ze nou juist bij Kunstuitleen Zwolle moeten zijn. Wat kun jij de bezoeker nou bieden als Kunstuitleen Zwolle wat andere partijen niet doen? Het mooiste is om de USP’s naar voren te laten komen via de titel of de subtitel, omdat dit één van de eerste dingen is die de bezoeker van de pagina ziet. De boodschap moet sterk genoeg zijn om de bezoeker te laten zien dat ze op de juiste plaats zijn. 
+**Unique Selling Points (USP’s)**
+
+Het is belangrijk om op de landingspagina te laten zien waarom ze nou juist bij Kunstuitleen Zwolle moeten zijn. Wat kun jij de bezoeker nou bieden als Kunstuitleen Zwolle wat andere partijen niet doen? Het mooiste is om de USP’s naar voren te laten komen via de titel of de subtitel, omdat dit één van de eerste dingen is die de bezoeker van de pagina ziet. De boodschap moet sterk genoeg zijn om de bezoeker te laten zien dat ze op de juiste plaats zijn. 
 
 ![Indeling landingspagina](https://placester.com/wp-content/uploads/2015/02/real-estate-website-conversion-kissmetrics-landing-page-infographic.png)
 
 **Hero shot**
+
 De hero shot is de visuele weergave van jouw aanbieding. Een grote afbeelding of video kunnen er voor zorgen dat in één oogopslag duidelijk is waar de landingspagina voor staat. Een foto zegt immers meer dan duizend woorden. 
 
 ### Assets
