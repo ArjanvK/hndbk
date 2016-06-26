@@ -18,7 +18,7 @@ De enquêtevragen zijn opgesteld aan de hand van de vijf fases die klanten van d
 * Kopen
 * Aanbevelen
 
-Door aan iedere fase een aantal vragen te koppelen kan aan de hand van de enquêteresultaten worden gekeken of de persona’s valide zijn. Naast de vragen uit deze fases zijn ook zogenaamde ‘profielvragen’ toegevoegd. Deze vragen bieden onder andere inzicht in geslacht, leeftijd en gezinssituatie. De vijf fases kunnen worden gezien als variabelen. Door deze variabelen met elkaar te combineren kan een duidelijk profiel van de persona worden geschetst. 
+Door aan iedere fase een aantal vragen te koppelen wordt aan de hand van de enquêteresultaten gekeken of de persona’s valide zijn. Naast de vragen uit deze fases zijn ook zogenaamde ‘profielvragen’ toegevoegd. Deze vragen bieden onder andere inzicht in geslacht, leeftijd en gezinssituatie. De vijf fases kunnen worden gezien als variabelen. Door deze variabelen met elkaar te combineren kan worden gekeken of de eerder gedefinieerde persona's valide zijn. 
 
 De onderstaande vraag ‘Wat is uw leeftijd?’ is een voorbeeldvraag waarmee de respondenten op leeftijdscategorie worden ‘onderverdeeld’ in de verschillende persona’s. 
 
