@@ -4,7 +4,7 @@ date: 2015-11-01 01:03:00 +01:00
 position: 4
 ---
 
-De particuliere kunstliefhebber 'empty nester'
+Op deze pagina zijn zowel de persona als de customer journey van de particuliere kunstliefhebber 'empty nester' te vinden.
 
 **De persona Mark Hogeland**
 
