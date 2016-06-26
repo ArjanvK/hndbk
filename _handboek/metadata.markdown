@@ -5,7 +5,7 @@ position: 4
 prep time: blah
 ---
 
-Door het in kaart brengen van de customer journeys hebben we inzicht verkregen in de manieren waarop we de doelgroepen kunnen voorzien van informatie. In dit hoofdstuk wordt toegelicht hoe we de doelgroepen kunnen bereiken en hoe deze content eruit ziet. Deze stappen samen geven een duidelijk beeld van de communicatie met doelgroepen van de Kunstuitleen. 
+Door het in kaart brengen van de customer journeys hebben we inzicht verkregen in de manieren waarop we de doelgroepen kunnen voorzien van informatie. In dit hoofdstuk wordt toegelicht hoe we de doelgroepen kunnen bereiken en hoe deze content eruit ziet. Content is informatie die een doel dient en is er in allerlei vormen, variërend van tekst tot video. Onderstaande stappen geven een duidelijk beeld van de communicatie met doelgroepen van de Kunstuitleen. 
 
 ## Het creëren van content 
 Bij het schrijven van de content komen een aantal elementen naar voren die er voor zorgen dat de informatie nog beter gericht wordt op de doelgroep waarvoor het bedoeld is. Deze elementen zijn gericht op de schrijfstijl en zoekwoorden. De basiselementen van de huisstijl van Kunstuitleen Zwolle - die ook worden gebruikt bij het creëren van content - zijn te vinden in de [Huisstijlgids](http://hndbk.siteleaf.net/style/). 
