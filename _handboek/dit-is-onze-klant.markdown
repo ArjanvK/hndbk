@@ -53,7 +53,7 @@ Leeftijd en geslacht
 * **Psychografisch**: 
 Leefstijl, interesses, hobby’s, literatuur en gebruik van mediakanalen 
 
-Om het handboek overzichtelijk te lichten we ter illustratie één persona uit. In dit geval is gekozen voor Carine Westera, een particuliere kunstliefhebber met een gezin. Carine wordt als leidraad gebruikt in dit handboek. De overige persona's zijn [hier](http://hndbk.siteleaf.net/weten/) te vinden. In onderstaand voorbeeld is te zien hoe de persona ‘Carine Westera’ er uit ziet.
+Om het handboek overzichtelijk te lichten we ter illustratie één persona uit. In dit geval is gekozen voor Carine Westera, een particuliere kunstliefhebber met een gezin. Carine wordt als leidraad gebruikt in dit handboek. Voor de overige doelgroepen is ook een persona beschreven. Deze persona's zijn [hier](http://hndbk.siteleaf.net/weten/) te vinden. In onderstaand voorbeeld is te zien hoe de persona ‘Carine Westera’ er uit ziet.
 
 
 
