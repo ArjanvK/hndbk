@@ -5,7 +5,7 @@ position: 0
 layout: page
 ---
 
-Bij de ontwikkeling van dit handboek is gebruik gemaakt van verschillende bronnen. Op deze pagina zijn de bronnen te vinden. 
+Bij de ontwikkeling van dit handboek is gebruik gemaakt van verschillende bronnen. In deze bibliografie zijn de bronnen te vinden. 
 
 **Websites**
 
