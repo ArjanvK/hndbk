@@ -4,7 +4,7 @@ date: 2016-03-24 17:15:00 +01:00
 position: 10
 ---
 
-Op deze pagina is de volledige enquête te vinden, die is gebruikt om de persona's te valideren. 
+Op deze pagina is de volledige enquête te vinden, die is gebruikt om te onderzoeken of de persona's daadwerkelijk valide zijn.
 
 
 Beste bezoeker van Kunstuitleen Zwolle,
