@@ -29,6 +29,15 @@ collections:
       badge: "/uploads/badge--handbook.svg"
       in_nav: true
     position: 30
+  style:
+    title: Huisstijlgids
+    output: true
+    permalink: "/:collection/:path/"
+    meta:
+      description: Standaards voor onderdelen van visuele communicatie
+      badge: "/uploads/badge--style.svg"
+      in_nav: true
+    position: 60
   leeswijzer:
     title: Leeswijzer
     output: true
@@ -59,15 +68,6 @@ collections:
   posts:
     title: Posts
     output: true
-  style:
-    title: Stijlgids
-    output: true
-    permalink: "/:collection/:path/"
-    meta:
-      description: Visuele communicatie
-      badge: "/uploads/badge--style.svg"
-      in_nav: true
-    position: 60
   uploads:
     title: Uploads
     output: true
