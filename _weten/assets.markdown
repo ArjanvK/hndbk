@@ -8,8 +8,6 @@ Voor de verschillende doelgroepen zijn een aantal assets ontwikkeld in de vorm v
 
 [Kunst in huis: waar let je op?](/uploads/Kunstinhuiswaarletjeop.pdf)
 
-[Een vliegende start voor kunst op het werk](/uploads/Eenvliegendestartvoorkunstophetwerk.pdf)
-
 [Welke kunst past bij u](/uploads/Welkekunstpastbiju.pdf)
 
 [10 tips voor het ophangen van kunst](/uploads/10tipsvoorhetophangenvankunst.pdf)
