@@ -5,7 +5,7 @@ position: 0
 layout: page
 ---
 
-Welkom in ‘Kunst 2.0 – communicatiehandboek voor een online kunstplatform’! Dit online handboek dient als hulpmiddel voor medewerkers van Kunstuitleen Zwolle om het online platform ‘Kunst 2.0’ te onderhouden en te vergroten. 
+Welkom in ‘Kunst 2.0 – communicatiehandboek voor een online kunstplatform’! Dit online handboek dient als hulpmiddel voor medewerkers van [Kunstuitleen Zwolle](http://hndbk.siteleaf.net/weten/over-kunstuitleen-zwolle/) om het online platform ‘Kunst 2.0’ te onderhouden en te vergroten. 
 
 In dit handboek wordt beschreven op welke manier we inzicht kunnen krijgen in de verschillende doelgroepen van Kunstuitleen Zwolle en op welke manier we hen op online gebied beter kunnen bedienen. Om het handboek overzichtelijk, duidelijk en leesbaar te houden voor de medewerkers is besloten om voor achtergrondinformatie, methodische verantwoording en theoretische ondersteuning te verwijzen naar de bijlagen. Deze zijn te vinden onder het kopje 'Meer weten'. De bronnen die tijdens het creëren van dit handboek zijn gebruikt, zijn te vinden op de pagina 'Bronnen'. 
 
