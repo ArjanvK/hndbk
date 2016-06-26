@@ -10,5 +10,3 @@ Tientallen tentamens, verrassende projecten en genoeg stressmomenten verder is h
 Het neerzetten van dit online handboek had ik natuurlijk niet helemaal alleen kunnen doen. Er zijn daarom een aantal mensen die ik graag wil  bedanken. Allereerst mijn bedrijfsmentor, Arjan van Kempen. Bedankt voor de nieuwe inzichten, feedback én positieve instelling als stress de overhand nam. Ook wil ik Albertha Wielsma, de afstudeercoach vanuit Hogeschool Windesheim, bedanken voor de ondersteuning en feedback tijdens mijn afstudeerperiode. Als laatste bedank ik alle werknemers en vrijwilligers die betrokken zijn bij Kunstuitleen Zwolle: jullie hebben voor de nodige gezelligheid gezorgd.  
 
 Denise Damman
-
-[Voorstel huisstijlhandboek KUZ.pdf](/uploads/Voorstel%2520huisstijlhandboek%2520KUZ.pdf)
