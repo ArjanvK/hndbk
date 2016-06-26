@@ -5,11 +5,11 @@ position: 0
 layout: page
 ---
 
-Welkom in ‘Kunst 2.0 – communicatiehandboek voor een online kunstplatform’! Dit online handboek dient als hulpmiddel voor medewerkers van [Kunstuitleen Zwolle](http://hndbk.siteleaf.net/weten/over-kunstuitleen-zwolle/) om het online platform ‘Kunst 2.0’ te onderhouden en te vergroten. 
+Welkom in 'Handboek Communicatie Kunstuitleen2.0'! Dit online handboek dient als hulpmiddel voor medewerkers van [Kunstuitleen Zwolle](http://hndbk.siteleaf.net/weten/over-kunstuitleen-zwolle/) om het online platform ‘Kunst 2.0’ te onderhouden en te vergroten. 
 
-In dit handboek wordt beschreven op welke manier we inzicht kunnen krijgen in de verschillende doelgroepen van Kunstuitleen Zwolle en op welke manier we hen op online gebied beter kunnen bedienen. Om het handboek overzichtelijk, duidelijk en leesbaar te houden voor de medewerkers is besloten om voor achtergrondinformatie, methodische verantwoording en theoretische ondersteuning te verwijzen naar de bijlagen. Deze zijn te vinden onder het kopje 'Meer weten'. De bronnen die tijdens het creëren van dit handboek zijn gebruikt, zijn te vinden op de pagina 'Bronnen'. 
+In dit handboek wordt beschreven op welke manier we inzicht kunnen krijgen in de verschillende doelgroepen van Kunstuitleen Zwolle en op welke manier we hen op online gebied beter kunnen bedienen. Om het handboek overzichtelijk, duidelijk en leesbaar te houden voor de medewerkers is besloten om voor achtergrondinformatie, methodische verantwoording en theoretische ondersteuning te verwijzen naar de bijlagen. Deze zijn te vinden onder het kopje 'Meer weten'. De bronnen die tijdens het creëren van dit handboek zijn gebruikt, zijn te vinden op de pagina 'Bronnen'. In de tekst is regelmatig gebruik gemaakt van links. Door hier op te klikken kom je terecht op een pagina met meer informatie over het betreffende onderdeel. 
 
-Het daadwerkelijke handboek is te vinden onder het kopje 'Handboek Kunst 2.0'. Het handboek is opgedeeld in verschillende onderdelen: 
+Het daadwerkelijke handboek is te vinden onder het kopje 'Handboek Kunst2.0'. Het handboek is opgedeeld in verschillende onderdelen: 
 
 ### Deel 1 – Daarom dit handboek
 Deel 1 beschrijft het doel van dit handboek en geeft een vooruitblik. Hoe kan de Kunstuitleen inspelen op de huidige ontwikkelingen op het gebied van kunst en cultuur?
@@ -28,3 +28,5 @@ In deel 5 is aan de hand van praktijkvoorbeelden weergegeven hoe de content kan 
 
 ### Deel 6 – Hoe continue te verbeteren?
 In het laatste gedeelte – deel 6 – wordt kort beschreven wat de conclusie van deze verschillende stappen is en hoe het online platform continue verbeterd kan worden. 
+
+Veel plezier bij het lezen van dit online handboek!
