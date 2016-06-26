@@ -8,7 +8,7 @@ Voor de verschillende doelgroepen zijn een aantal assets ontwikkeld in de vorm v
 
 [Kunst in huis: waar let je op?](/uploads/Kunstinhuiswaarletjeop.pdf)
 
-[Schilderij in huis-e6f59b.pdf](/uploads/Schilderij%2520in%2520huis-e6f59b.pdf)
+[Schilderij in huis1.pdf](/uploads/Schilderij%2520in%2520huis1.pdf)
 
 [10 tips voor het ophangen van kunst.pdf](/uploads/10%2520tips%2520voor%2520het%2520ophangen%2520van%2520kunst.pdf)
 
