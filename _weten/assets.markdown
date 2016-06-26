@@ -8,4 +8,4 @@ Voor de verschillende doelgroepen zijn een aantal assets ontwikkeld in de vorm v
 
 [Kunst in huis: waar let je op?](/uploads/Kunstinhuiswaarletjeop.pdf)
 
-[Waarhangjekunstop (2).pdf](/uploads/Waarhangjekunstop%2520(2).pdf)
+[Waarhangjekunstop (2).pdf](/uploads/Waarhangjekunstop(2).pdf)
