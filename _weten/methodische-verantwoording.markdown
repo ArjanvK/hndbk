@@ -23,7 +23,6 @@ Om een duidelijk beeld te krijgen van de verschillende doelgroepen zijn één op
 Ook andere instituten uit zowel Nederland als België hebben onderzoek gedaan naar de verschillende doelgroepen op het gebied van kunst en welke eigenschappen hier bij horen. 
 
 **Customer Journey**
-
 Op basis van de verkregen gegevens is vervolgens per persona de Customer Journey in kaart gebracht. De Customer Journey is een visualisering van de ervaringen die mensen hebben bij de interactie met een product of dienst, zodat elk moment afzonderlijk kan worden beoordeeld en verbeterd (Martin & Hanington, User Journey Map, 2012). In deze journey wordt het verhaal verteld van acties, gevoelens, percepties en het denkkader van een persoon. Het helpt de organisatie om het grotere beeld te zien en om besluiten te nemen over waar de focus activiteiten volgens onderzoek liggen. Hierdoor is het mogelijk om:
 * Projecten te identificeren en een plan van aanpak te maken
 * Mogelijkheden voor innovatie te identificeren
