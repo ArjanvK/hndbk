@@ -48,10 +48,3 @@ De hoofdkleur is blauw, de overige kleuren zijn ter ondersteuning. Het lettertyp
 
 
 
-## h2. Heading 2
-
-### h3. Heading 3
-
-#### h4. Heading 4
-
-##### h5. Heading 5
