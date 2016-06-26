@@ -8,6 +8,8 @@ Op deze pagina zijn zowel de persona als de customer journey van de particuliere
 
 **De persona Mark Hogeland**
 
+![persona-kunstliefhebber-emptynester.jpg](/uploads/persona-kunstliefhebber-emptynester.jpg)
+
 * Mark Hogeland
 * 56 jaar 
 * Getrouwd met Lisette
