@@ -12,7 +12,7 @@ Continuous incremental improvement – ook wel continue online optimalisatie –
 Bij het optimaliseren moet de essentie in gedachten worden gehouden:
 
 * Hoe waardevol zijn mijn site en online communicatie voor de bezoekers die ik wens te bereiken en te ontvangen?
-* Welke cross-channel marketingmix zorgt voor de beste en meest efficiënte traffic?
+* Welke combinatie van kanalen en middelen zorgt voor de beste en meest efficiënte traffic?
 * Wat gebeurt er met die bezoekers zodra ze op de website belanden? 
 
 Het is belangrijk om niet lukraak optimalisatietools in te zetten, omdat dit geen doel op zich is. “Random and ad hoc test ideas, lead to random conversion rate lifts”. Zorg voor een duidelijk meetplan. Hierin staan de doelen die je (online) nastreeft, op welke termijn en hoe deze worden gemeten. Welke tools zet je daarvoor in en hoe ziet het daadwerkelijk optimaliseren eruit (Rentier, 2014)? 
