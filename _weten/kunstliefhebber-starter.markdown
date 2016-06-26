@@ -8,7 +8,7 @@ Op deze pagina zijn zowel de persona als de customer journey van de particuliere
 
 **De persona Meike Horst**
 
-FOTO
+![persona-kunstliefhebber-starter.jpg](/uploads/persona-kunstliefhebber-starter.jpg)
 
 * Meike Horst
 * 25 jaar 
