@@ -60,7 +60,7 @@ collections:
     title: Posts
     output: true
   style:
-    title: Huisstijlgids Kunstuitleen Zwolle
+    title: Huisstijlgids
     output: true
     permalink: "/:collection/:path/"
     meta:
