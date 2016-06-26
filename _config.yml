@@ -59,7 +59,7 @@ collections:
   posts:
     title: Posts
     output: true
-  stijlgids:
+  huisstijl:
     title: Stijlgids
     output: true
     permalink: "/:collection/:path/"
@@ -114,7 +114,7 @@ defaults:
     color: blue
 - scope:
     path: ''
-    type: stijlgids
+    type: style
   values:
     layout: page
     color: blue
