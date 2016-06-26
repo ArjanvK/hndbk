@@ -8,6 +8,8 @@ Op deze pagina zijn zowel de persona als de customer journey van de particuliere
 
 **De persona Liesbeth Franken**
 
+![persona-kunstliefhebber-gepensioneerd.jpg](/uploads/persona-kunstliefhebber-gepensioneerd.jpg)
+
 * Liesbeth Franken
 * 68 jaar 
 * Alleenstaand 
