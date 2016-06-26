@@ -17,6 +17,7 @@ In de B variant zijn exact dezelfde content, kleuren en afbeeldingen gebruikt al
 
 ![abtest2.jpg](/uploads/abtest2.jpg)
 
+De B variant zorgde voor de meeste conversie en komt als beste uit de test. 
 
 
 A/B test emailnieuwsbrief
