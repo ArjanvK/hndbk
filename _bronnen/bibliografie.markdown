@@ -5,6 +5,8 @@ position: 0
 layout: page
 ---
 
+Bij de ontwikkeling van dit handboek is gebruik gemaakt van verschillende bronnen. In deze bibliografie zijn de bronnen te vinden. 
+
 **Websites**
 
 Berentsen, M. (2014). Online kunst: een grenzeloos domein. Opgeroepen op februari 22, 2016, van Cultuur participatie.
