@@ -10,7 +10,6 @@ Voorafgaand aan de ontwikkeling van dit handboek, is er literatuuronderzoek geda
 Om de betrouwbaarheid te vergroten zal zowel kwantitatief als kwalitatief onderzoek in worden gezet. De combinatie van deze twee manieren wordt ook wel triangulatie genoemd. Triangulatie is de convergentie van meerdere methoden over dezelfde onderzoeksvraag om bewijs vanuit verschillende invalshoeken te bevestigen (Martin & Hanington, 2012). 
 
 **Persona’s**
-
 Persona’s zijn archetypische beschrijvingen van patronen van gebruikersgedrag in representatieve profielen om de ontwerpfocus en testscenario’s menselijker te maken en de ontwerpcommunicatie te ondersteunen (Martin & Hanington, Persona's, 2012). De informatie voor deze persona’s kan worden verkregen door in gesprek te gaan met de doelgroepen, maar ook met medewerkers binnen de organisatie die in contact staan met de verschillende doelgroepen. Persona’s bieden een ideale oplossing waarin algemeen gedrag in betekenisvolle en herleidbare profielen is gevat. De menselijke beschrijving maakt empathie en communicatie eenvoudiger, terwijl het onderscheid erin handige ontwerpdoelstellingen creëert voor aansprekende ontwerpen. 
 Allereerst zijn de verschillende doelgroepen definieert. Vervolgens is per doelgroep een persona opgesteld. Deze persona’s zijn samengesteld aan de hand van verschillende methodes:
 
