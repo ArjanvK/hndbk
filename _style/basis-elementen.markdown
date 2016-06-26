@@ -1,6 +1,7 @@
 ---
 title: Basis elementen
 date: 2016-06-26 14:21:00 +02:00
+permalink: "/style/"
 layout: page
 ---
 
