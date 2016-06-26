@@ -17,7 +17,7 @@ Met vriendelijke groet,
 
 Kunstuitleen Zwolle
 
-1 Wat is uw geslacht? 
+**1 Wat is uw geslacht?** 
 
 * Man
 * Vrouw
