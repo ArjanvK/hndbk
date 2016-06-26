@@ -38,3 +38,43 @@ De doelgroep ‘Kunstenaars’ is onderverdeeld in drie verschillende subdoelgro
 
 Omwille van de tijd, is de keuze gemaakt om het handboek te richten op vijf van de acht subdoelgroepen. Het gaat hierbij om de kunstliefhebbers, zowel zakelijk als particulier. De prioriteit ligt in eerste instantie bij het aantrekken van kunstliefhebbers. De manier van werken – zoals in dit handboek is beschreven – werkt exact hetzelfde voor de overige doelgroepen.
 
+### De persona
+Om meer inzicht te krijgen in de doelgroepen, is per doelgroep een [persona](http://hndbk.siteleaf.net/weten/methodische-verantwoording/) opgesteld. Deze persona’s geven weer hoe een persoon uit de doelgroep eruit zou kunnen zien. Ze helpen om heel praktisch en vanuit de bezoeker te kijken naar het product. Hierdoor kan goed worden ingeschat wat de verschillende doelgroepen verwachten en waarop de verschillende functionaliteiten worden afgestemd (Klompsma, 2011). 
+Door een persona op te stellen bouw je identificatie met de doelgroep. Hierdoor is beter te zien wat aansluit bij de verwachtingen van de personen die bereikt moeten worden (Cooper).
+
+Bij het opstellen van de persona’s kunnen de volgende kenmerken onder andere worden meegenomen (Birkner, 2013):
+
+* **Geografisch**:
+Woonplaats, buurt, soort huis
+* **Sociaal-economisch**:
+Opleiding en/of baan
+* **Demografisch**:
+Leeftijd en geslacht
+* **Psychografisch**: 
+Leefstijl, interesses, hobby’s, literatuur en gebruik van mediakanalen 
+
+Om het handboek overzichtelijk te lichten we ter illustratie één persona uit. In dit geval is gekozen voor Carine Westera, een particuliere kunstliefhebber met een gezin. Carine wordt als leidraad gebruikt in dit handboek. De overige persona's zijn [hier](http://hndbk.siteleaf.net/weten/) te vinden. In onderstaand voorbeeld is te zien hoe de persona ‘Carine Westera’ er uit ziet.
+
+
+**De particuliere kunstliefhebber (gezin) – Carine Westera**
+
+![Persona Carine](http://cdn.grid.fotosearch.com/DGT/DGT097/42-18335837.jpg)
+
+* Carine Westera
+* 44 jaar
+* Getrouwd met Hans
+* Woonachtig in Zwolle
+* Docente Wiskunde op het Carolus Clusius College
+
+Carine is een 44-jarige vrouw uit Zwolle. Ze is getrouwd met Hans en samen met hem heeft ze twee kinderen: Nora van 15 en Judith van 13. De dochters van Carine zijn nog thuiswonend. Het huis zit dan ook regelmatig vol met vrienden en vriendinnen van Nora en Judith. De kinderen van vrienden en familie zitten in dezelfde leeftijdscategorie als de twee meiden en zijn soms zelfs nog iets jonger. 
+Ze laat zich voornamelijk voorlichten over kunst via televisie en musea. 
+
+Carine is voornamelijk met de Kunstuitleen in aanraking gekomen door verhalen van vrienden en familie. Ook het internet heeft hierbij een rol gespeeld. Het fijne van de Kunstuitleen vindt Carine dat ze regelmatig kan wisselen tussen kunstwerken. Voordat de meiden uit huis zijn, zullen Carine en Hans het meubilair nauwelijks veranderen. Het regelmatig wisselen van kunstwerken zorgt dus voor de nodige vernieuwing in huis. Carine hecht ook niet veel waarde aan het opbouwen van een collectie. 
+
+Carine koopt vrijwel nooit kunst. Met het onderhouden van een gezin zit het spontaan kopen van kunst er niet in, er moet eerst gespaard worden. Heel af en toe wordt dit wel gedaan en dan besteedt ze maximaal 500 euro aan het kunstwerk. Nu Nora en Judith nog thuis wonen is het lenen van kunst tegelijkertijd een ideale manier om achter haar kunstsmaak te komen. Zijn de meiden over een aantal jaar uit huis, dan zou het daadwerkelijk kopen van kunst een optie zijn. 
+
+Omdat Carine niet veel tijd over heeft naast haar werk, gezin en sport loopt ze ook niet regelmatig de Kunstuitleen binnen. Ze vindt het dan ook prettig om via eens per kwartaal op de hoogte te worden gehouden over nieuwe kunstwerken in collectie. Zo kan ze inschatten of er iets nieuws naar haar smaak is en kan ze daarna langs gaan bij de uitleen. Daarnaast vindt Carine het ook prettig als ze de collectie van de Kunstuitleen online zou kunnen bekijken. 
+
+Carine is actief op Facebook en Twitter en volgt hier een beperkt aantal personen; alleen de profielen die ze écht interessant vindt. Ze vindt het leuk om via deze kanalen op de hoogte te blijven van nieuws van de Kunstuitleen. Daarnaast ontvangt ze graag via de mail updates. 
+
+
