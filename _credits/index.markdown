@@ -11,4 +11,4 @@ Het neerzetten van dit online handboek had ik natuurlijk niet helemaal alleen ku
 
 Denise Damman
 
-![cj-starter.jpg](/uploads/cj-starter.jpg)
+![cj-starter2.jpg](/uploads/cj-starter2.jpg)
