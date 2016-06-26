@@ -23,5 +23,5 @@ In Nederland groeit het aantal online galeries en verkoopsites gestaag door. De 
 ### Kunstuitleen2.0
 Door deze ontwikkelingen op het gebied van kunst, cultuur en digitalisering is het idee voor ‘Kunstuitleen2.0’ geboren. Kunstuitleen2.0 is een platform waarop naast informatie over kunstenaars en kunstwerken het hele jaar door actuele content wordt gedeeld. Het is een initiatief waarbij kunstenaars, kunstbemiddelaars en kunsttentoonstellers op een centrale plaats bij elkaar komen. De gegevens worden ten behoeve van publiekscommunicatie en educatie verrijkt met voor het publiek interessante content. 
 
-### Doelgroepen
-Het doel van Kunst 2.0 is om de verschillende doelgroepen die betrokken zijn bij Kunstuitleen Zwolle en beeldende kunst in het algemeen in Zwolle samen te brengen op één platform. Het doel van het online platform is dan ook om kunstliefhebbers online beter te bedienen. Dit handboek biedt handvatten bij het vergroten en optimaliseren van het online platform 'Kunstuitleen2.0'. 
+### Handboek Kunst 2.0
+Het doel van het online platform is om de verschillende doelgroepen die betrokken zijn bij Kunstuitleen Zwolle en beeldende kunst in het algemeen in Zwolle samen te brengen op één platform. Het doel van het online platform is dan ook om kunstliefhebbers online beter te bedienen. Dit handboek biedt handvatten bij het vergroten en optimaliseren van het online platform 'Kunstuitleen2.0'. Het is een duurzaam product, dat makkelijk te gebruiken is door medewerkers van Kunstuitleen Zwolle. 
