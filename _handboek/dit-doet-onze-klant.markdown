@@ -29,7 +29,7 @@ Worden deze fases vanuit het opzicht van de Kunstuitleen bekeken, dan zijn deze 
 * Vertrouwen, boeien, binden 
 * Refereren 
 
-Zoals eerder beschreven wordt aan de hand van de persona Carine de Customer Journey Map toegelicht. De Customer Journey Maps van de andere doelgroepen zijn [hier](http://hndbk.siteleaf.net/weten/) te vinden.
+Zoals eerder beschreven wordt aan de hand van de persona Carine de Customer Journey Map toegelicht. De Customer Journey Maps van de andere doelgroepen zijn [hier](http://hndbk.siteleaf.net/weten/) te vinden onder de kopjes van de verschillende kunstliefhebbers.
 
 De Customer Journey Map is opgedeeld in twee delen. In het eerste gedeelte wordt gekeken naar de doelen en wensen van de klant. Wat verlangen zij in iedere fase van de Kunstuitleen en wat is het doel hierbij? In het tweede gedeelte worden deze doelen en wensen bekeken vanuit het oogpunt van de Kunstuitleen. Hoe kan de Kunstuitleen hierop inspelen, welke activiteiten zijn hier geschikt voor en welke instrumenten en content kunnen hier bij helpen? Door het op deze manier in kaart te brengen ontstaat een duidelijk beeld van aan de ene kant de vraagzijde van de klant en anderzijds het aanbod, de manier waarop de Kunstuitleen kan voorzien in deze vraag.
 
