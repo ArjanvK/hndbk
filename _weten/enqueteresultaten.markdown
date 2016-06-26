@@ -32,6 +32,6 @@ De vraag ‘Ik wil door de Kunstuitleen graag geïnformeerd worden over…’ ge
 
 De vraag ‘Factoren die meespelen bij de aanschaf van een kunstwerk zijn…’ geeft inzicht in de beweegredenen voor de aanschaf van kunst bij de persona. 
 
-![factoren aanschaf.jpg](/uploads/factoren%2520aanschaf.jpg)
+![factoren-aanschaf2.jpg](/uploads/factoren-aanschaf2.jpg)
 
 
