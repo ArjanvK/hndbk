@@ -4,7 +4,7 @@ date: 2016-06-26 20:39:00 +02:00
 position: 11
 ---
 
-Op deze pagina wordt kort beschreven hoe de enquête is opgezet. Daarnaast worden een aantal resultaten uitgelicht.
+Op deze pagina wordt kort beschreven hoe de enquête is opgezet. Daarnaast worden een aantal resultaten uitgelicht. De volledige enquête is [hier](http://hndbk.siteleaf.net/weten/de-enquetevragen/) te vinden.
 
 Zoals eerder beschreven heeft een mens manifeste en latente behoeftes. Manifeste behoeftes zijn behoeftes die men bewust aanvoelt. Een voorbeeld hiervan is de behoefte om te eten of drinken. Latente behoeftes zijn behoeftes die men niet voelt en waarvan men niet weet dat ze er zijn. Een latente behoefte kan een manifeste behoefte worden (Jones, 2014). Om te toetsen of de gedefinieerde persona’s valide zijn, is een enquête uitgezet. 
 
