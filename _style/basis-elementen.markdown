@@ -16,10 +16,10 @@ In de verschillende communicatiemiddelen van Kunstuitleen Zwolle wordt onderstaa
 In de huisstijl zijn drie terugkerende basiskleuren gebruikt. Het gaat hierbij om:
 
 * Blauw
-Kleurcode: #009FE3
-Tint: 100%
-C=100 M=0 Y=0 K=0
-R=0 G=159 B=227
+- Kleurcode: #009FE3
+- Tint: 100%
+- C=100 M=0 Y=0 K=0
+- R=0 G=159 B=227
 
 * Zwart 
 Kleurcode: #000000
