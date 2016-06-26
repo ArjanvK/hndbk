@@ -60,7 +60,7 @@ Om het handboek overzichtelijk te lichten we ter illustratie één persona uit. 
 
 **De particuliere kunstliefhebber (gezin) – Carine Westera**
 
-![Persona Carine](http://cdn.grid.fotosearch.com/DGT/DGT097/42-18335837.jpg)
+![personacarine.png](/uploads/personacarine.png)
 
 * Carine Westera
 * 44 jaar
