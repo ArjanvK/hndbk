@@ -34,7 +34,7 @@ Als voorbeeld gebruiken we Carine. Carine is op zoek naar een nieuw kunstwerk, m
 Door de gevonden zoekwoorden te verwerken in de content vergroot je de kans dat Carine in aanraking komt met Kunstuitleen Zwolle. 
 
 ## Het verspreiden van content
-Zodra de content is ontwikkeld, willen we dit gaan delen met de verschillende doelgroepen. Voor de verspreiding van de content werken we volgens de Inbound Marketing Funnel. Onder het kopje 'Meer weten' is te vinden wat Inbound Marketing precies inhoudt. 
+Zodra de content is ontwikkeld, willen we dit gaan delen met de verschillende doelgroepen. Voor de verspreiding van de content werken we volgens de Inbound Marketing Funnel. Onder het kopje ['Meer weten'](hndbk.siteleaf.net/weten/over-inbound-marketing/) is te vinden wat Inbound Marketing precies inhoudt. 
 
 
 ### Landingspagina's
