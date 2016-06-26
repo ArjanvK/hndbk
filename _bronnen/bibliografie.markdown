@@ -30,6 +30,8 @@ Hubspot. (sd). The Inbound Methodology. Opgeroepen op februari 26, 2016, van Hub
 
 Identificeer je online influencers; neem een voorbeeld aan Andrelon. (2013, juli 18). Opgeroepen op mei 16, 2016, van Dutch Cowboys: [http://www.dutchcowboys.nl/socialmedia/29091](http://www.dutchcowboys.nl/socialmedia/29091)
 
+Jones, J. (2014). Weet u wat latente behoeften of manifeste behoeften zijn? Enkele marketingbegrippen over soorten behoeften. Opgeroepen op februari 23, 2016, van Plazilla: [http://jacobjones.plazilla.com/page/4295028287/weet-u-wat-latente-behoeften-of-manifeste-behoeften-zijn-enkele-marketingbegrippen-over-soorten-behoeften](http://jacobjones.plazilla.com/page/4295028287/weet-u-wat-latente-behoeften-of-manifeste-behoeften-zijn-enkele-marketingbegrippen-over-soorten-behoeften)
+
 O'Connor, N. (2015, januari 25). How to build an experience map. Opgeroepen op februari 26, 2016, van Medium: [https://medium.com/@wnialloconnor/how-to-build-an-experience-map-5e55b7ee4f32#.m7x1frg3j](https://medium.com/@wnialloconnor/how-to-build-an-experience-map-5e55b7ee4f32#.m7x1frg3j)
 
 Parool. (2016, februari 16). Musea tonen slechts klein deel van grote kunstcollectie. Opgeroepen op februari 25, 2016, van Het Parool: [http://www.parool.nl/kunst-en-media/musea-tonen-slechts-klein-deel-van-grote-kunstcollectie~a4247866/](http://www.parool.nl/kunst-en-media/musea-tonen-slechts-klein-deel-van-grote-kunstcollectie~a4247866/)
@@ -37,6 +39,8 @@ Parool. (2016, februari 16). Musea tonen slechts klein deel van grote kunstcolle
 Rentier, C. (2014, april 18). Optimaliseer het geluk van je klant. Opgeroepen op juni 13, 2016, van Marketingfacts: [https://www.marketingfacts.nl/berichten/optimaliseer-het-geluk-van-je-klant](https://www.marketingfacts.nl/berichten/optimaliseer-het-geluk-van-je-klant)
 
 Ropertz, J. (2015, augustus 19). Psychologische trucs voor beter converterende landingspagina’s . Opgeroepen op mei 2, 2016, van Bynder: [http://blog.getbynder.com/nl/knowledge/bynder-blog/psychologische-trucs-voor-beter-converterende-landingspaginas](http://blog.getbynder.com/nl/knowledge/bynder-blog/psychologische-trucs-voor-beter-converterende-landingspaginas)
+
+Selles, P. (2009, april 8). Stappenplan website optimalisatie (4): A/B testen. Opgeroepen op februari 25, 2016, van Frankwatching: [http://www.frankwatching.com/archive/2009/04/08/stappenplan-website-optimalisatie-4-ab-testen/](http://www.frankwatching.com/archive/2009/04/08/stappenplan-website-optimalisatie-4-ab-testen/)
 
 Soskey, G. (2013, augustus 14). What is a Call-to-Action? Opgeroepen op mei 6, 2016, van Hubspot: [http://blog.hubspot.com/marketing/what-is-call-to-action-faqs-ht#sm.0001ruy70jn79ew3sur2ak4h09icr](http://blog.hubspot.com/marketing/what-is-call-to-action-faqs-ht#sm.0001ruy70jn79ew3sur2ak4h09icr)
 
@@ -66,3 +70,9 @@ van den Borne, S. (2010). Succes in kunstenaars-loopbanen. LoopbaanVisie.
 Klompsma, R. (2011). Zo kan het ook. Groningen: Concept7 B.V.
 
 Tamaëla, S., Broer, R., Noll, J., Hengeveld, E., & Vernooy, S. (2012). Handboek SEO. Culemborg: Van Duuren Media.
+
+Martin, B., & Hanington, B. (2012). Persona's. In B. Martin, & B. Hanington, Universele ontwerpmethoden (pp. 132-133). Amsterdam: BIS Publishers.
+
+Martin, B., & Hanington, B. (2012). Universele ontwerpmethoden. Amsterdam: BIS Publishers.
+
+Martin, B., & Hanington, B. (2012). User Journey Map. In B. Martin, & B. Hanington, Universele ontwerpmethoden (pp. 196-197). Amsterdam: BIS Publishers .
