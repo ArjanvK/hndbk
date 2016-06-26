@@ -1,5 +1,5 @@
 ---
-title: Huisstijlgids Kunstuitleen Zwolle
+title: Huisstijlgids
 permalink: "/style/"
 position: 0
 layout: section
