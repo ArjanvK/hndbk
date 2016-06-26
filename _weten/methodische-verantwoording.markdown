@@ -31,7 +31,6 @@ Op basis van de verkregen gegevens is vervolgens per persona de Customer Journey
 De Customer Journey bestaat uit verschillende fases. Per fase komt naar boven wat de doelen, wensen en behoeften zijn en hoe hier op ingespeeld kan worden. 
 
 **Content ontwikkeling**
-
 Na het inzichtelijk krijgen van de Customer Journeys, wordt bepaald hoe er met de doelgroepen gecommuniceerd wordt. De resultaten uit de beschrijvingen van de Customer Journey bieden inzicht in het soort contact dat wordt gecreëerd. Voor het creëren van content is ook keywordonderzoek gedaan. Bij keywordonderzoek wordt onderzocht op welke woorden potentiële klanten van een bedrijf zoeken. Met hulpmiddelen als de Adwords Keyword Tool kan ook worden ingeschat hoeveel zoekverkeer deze keywords hebben. De boodschap en daarmee ook de verschillende content wordt aangepast op de behoeften en het zoekgedrag van de doelgroepen. Met deze content kunnen vervolgens campagnes in werking worden gezet.
 
 **Enquête**
