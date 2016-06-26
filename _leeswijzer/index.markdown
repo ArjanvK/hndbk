@@ -28,3 +28,5 @@ In deel 5 is aan de hand van praktijkvoorbeelden weergegeven hoe de content kan 
 
 ### Deel 6 – Hoe continue te verbeteren?
 In het laatste gedeelte – deel 6 – wordt kort beschreven wat de conclusie van deze verschillende stappen is en hoe het online platform continue verbeterd kan worden. 
+
+[Voorstel huisstijlhandboek KUZ-360d4a.pdf](/uploads/Voorstel%2520huisstijlhandboek%2520KUZ-360d4a.pdf)
