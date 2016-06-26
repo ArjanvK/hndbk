@@ -22,16 +22,16 @@ In de huisstijl zijn drie terugkerende basiskleuren gebruikt. Het gaat hierbij o
 - R=0 G=159 B=227
 
 ### Zwart 
-Kleurcode: #000000
-Tint=100%
-C=0 M=0 Y=0 K=100
-R=0 G=0 B=0
+- Kleurcode: #000000
+- Tint=100%
+- C=0 M=0 Y=0 K=100
+- R=0 G=0 B=0
 
 ### Wit
-Kleurcode: #ffffff
-Tint=100%
-C=0 M=0 Y=0 K=0
-R=255 G=255 B=255
+- Kleurcode: #ffffff
+- Tint=100%
+- C=0 M=0 Y=0 K=0
+- R=255 G=255 B=255
 
 ## Typografie
 De hoofdkleur is blauw, de overige kleuren zijn ter ondersteuning. Het lettertype dat wordt gebruikt is 'Open Sans'. 
