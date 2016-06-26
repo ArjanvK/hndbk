@@ -1,6 +1,7 @@
 ---
 title: Enquêteresultaten
 date: 2016-06-26 20:39:00 +02:00
+position: 11
 ---
 
 Op deze pagina wordt kort beschreven hoe de enquête is opgezet. Daarnaast worden een aantal resultaten uitgelicht.
