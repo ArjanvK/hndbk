@@ -33,7 +33,7 @@ Zoals eerder beschreven wordt aan de hand van de persona Carine de Customer Jour
 
 De Customer Journey Map is opgedeeld in twee delen. In het eerste gedeelte wordt gekeken naar de doelen en wensen van de klant. Wat verlangen zij in iedere fase van de Kunstuitleen en wat is het doel hierbij? In het tweede gedeelte worden deze doelen en wensen bekeken vanuit het oogpunt van de Kunstuitleen. Hoe kan de Kunstuitleen hierop inspelen, welke activiteiten zijn hier geschikt voor en welke instrumenten en content kunnen hier bij helpen? Door het op deze manier in kaart te brengen ontstaat een duidelijk beeld van aan de ene kant de vraagzijde van de klant en anderzijds het aanbod, de manier waarop de Kunstuitleen kan voorzien in deze vraag.
 
-## Kunstliefhebber Carine (gezin)
+### Kunstliefhebber Carine (gezin)
 In onderstaande tabel is de Customer Journey Map van Carine te zien. 
 
 |    DE PERSONA           |    Oriënteren                                                                                                                      |    Lid worden                                                                                                                                         |    Lenen                                                                                                                                       |    Kopen                                                                                                                      |    Aanbevelen                                                                                                                      |
