@@ -1,8 +1,8 @@
-# Siteleaf Learn
+# Handboek Kunst 2.0
 
-Siteleaf Learn is a documentation and learning resource for [Siteleaf](http://siteleaf.com).
+This repo contains all branding and communication documentation for [Kunstuitleen Zwolle](http://kunstuitleenzwolle.nl).
 
-_Please note that this is only for [version 2](http://v2.siteleaf.com) of Siteleaf. For v1 documentation, please see the [v1 help site](http://www.siteleaf.com/help/)._
+_Please note that this is the latest draft for version 1.0._
 
 ## Installation
 
@@ -32,4 +32,4 @@ To help us improve the site:
 4. Push to the branch (git push origin my-new-feature)
 5. Create new Pull Request
 
-For tips on formatting, check out the [Style Guide](http://learn.siteleaf.com/style/).
+For tips on formatting, check out the [Style Guide](http://hndbk.siteleaf.net/style/).
