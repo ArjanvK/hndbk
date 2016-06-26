@@ -18,10 +18,12 @@ Met vriendelijke groet,
 Kunstuitleen Zwolle
 
 1 Wat is uw geslacht? 
+
 * Man
 * Vrouw
 
 2 Wat is uw leeftijd? 
+
 * < 25 jaar 
 * 25-35 jaar 
 * 36-45 jaar 
