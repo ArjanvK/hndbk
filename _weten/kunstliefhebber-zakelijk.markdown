@@ -8,7 +8,7 @@ Op deze pagina zijn zowel de persona als de customer journey van de zakelijke ku
 
 **De persona Bert van Poorten**
 
-FOTO
+![zakelijke-kunstliefhebber.jpg](/uploads/zakelijke-kunstliefhebber.jpg)
 
 * Bert van Poorten 
 * 53 jaar
