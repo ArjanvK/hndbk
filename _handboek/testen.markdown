@@ -25,7 +25,7 @@ De B variant heeft geleid tot de meeste namen en emailadressen en is dus het mee
 ## A/B test emailnieuwsbrief
 Naast de A/B test met landingspagina’s, is ook een A/B test gedaan met een emailnieuwsbrief. De emailnieuwsbrief was bestemd voor klanten van die Kunstuitleen die graag op de hoogte willen blijven van nieuwe kunstwerken in collectie. Bij de emailnieuwsbrief is als element de onderwerp regel getest. Bij variant A was de onderwerp regel ‘Op uw verzoek: nieuwe werken van Xandra Donders’. Variant B kwam in de mailbox terecht onder de naam ‘Ontdek het nieuwe werk van Xandra Donders’. 
 
-De twee verschillende varianten zijn verspreidt onder 20% van het geselecteerde bestand. De variant die het meest werd geopend, werd vervolgens naar de overige 80% van het bestand gestuurd. Variant A werd het meest geopend en kwam uiteindelijk als winnaar uit de bus. In de afbeelding is te zien hoe de inhoud van de email eruit zag. Het doel van de emailnieuwsbrief was om een reservering te ontvangen voor één van de kunstwerken. Na de verzending van deze email is daadwerkelijk een reservering binnen gekomen. 
+De twee verschillende varianten zijn verspreid onder 20% van het geselecteerde bestand. De variant die het meest werd geopend, werd vervolgens naar de overige 80% van het bestand gestuurd. Variant A werd het meest geopend en kwam uiteindelijk als winnaar uit de bus. In de afbeelding is te zien hoe de inhoud van de email eruit zag. Het doel van de emailnieuwsbrief was om een reservering te ontvangen voor één van de kunstwerken. Na de verzending van deze email is daadwerkelijk een reservering binnen gekomen. 
 
 ![abtestmail3.jpg](/uploads/abtestmail3.jpg)
 
