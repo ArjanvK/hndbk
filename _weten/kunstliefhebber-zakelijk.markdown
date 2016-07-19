@@ -22,7 +22,7 @@ Bert ziet het als zijn taak om kunst te vinden wat bij de organisatie past. Hij 
 
 Bert ziet een hoop voordelen van de inbreng van kunst bij de ING. De collectie brengt medewerkers allereerst in aanraking met kunst. Daarnaast kan een bedrijfscollectie medewerkers anders naar hun werk laten kijken, de creativiteit in een organisatie bevorderen en een menselijk element in de bedrijfscultuur brengen. Ook het mecenaat - het actief ondersteunen van kunstenaars en de kunstwereld - is van oudsher een belangrijke motivatie om kunst te verzamelen. Deze ondersteuning noemt men ook wel 'corporate social responsiblity', de sociaal maatschappelijke verantwoordelijkheid van een organisatie. 
 
-Bert is heel actief op social media. Hij twittert actief, volgt veel verschillende personen en heeft zelf ook veel volgers. Hij leest regelmatig blogs variërend van koken tot kunst. Bert is op doordeweekse dagen bijna 24/7 online, maar in de weekenden is dit minimaal. Websites bezoekt hij alleen als hij hier via één van zijn social media kanalen op terecht komt. 
+Bert is heel actief op social media. Hij twittert actief, volgt veel verschillende personen en heeft zelf ook veel volgers. Hij leest regelmatig blogs, variërend van koken tot kunst. Bert is op doordeweekse dagen bijna 24/7 online, maar in de weekenden is dit minimaal. Websites bezoekt hij alleen als hij hier via één van zijn social media kanalen op terecht komt. 
 
 
 ## De customer journey van Bert
