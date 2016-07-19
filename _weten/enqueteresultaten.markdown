@@ -34,5 +34,5 @@ De vraag ‘Factoren die meespelen bij de aanschaf van een kunstwerk zijn…’ 
 
 ![factoren-aanschaf2.jpg](/uploads/factoren-aanschaf2.jpg)
 
-De resultaten van de gehele enquête zijn te vinden in [Enquêteresultaten.pdf](/uploads/Enqu%C3%AAteresultaten.pdf) PDF bestand. 
+De resultaten van de gehele enquête zijn te vinden in dit bestand: [Enquêteresultaten.pdf](/uploads/Enqu%C3%AAteresultaten.pdf).
 
