@@ -23,7 +23,7 @@ Ook al woont Meike al vier maand in de nieuwe woning, ze is nog druk bezig met d
 
 Door de hoeveelheid aan opties ontstaat er bij Meike een soort keuzestress. Wat is de investering waard? Wat is mooi? Meike is nog niet bekend met de Kunstuitleen en het concept daarvan. De Kunstuitleen zou een goede manier zijn om achter haar smaak en stijl te komen. Door verschillende werken te lenen en uit te proberen komen Meike en Jelle er achter welke stijlen bij hen passen. 
 
-Meike bevindt zich niet in een doelgroep die regelmatig gebruik maakt van het Kunstuitleen-concept. Het is daarom belangrijk om haar op de hoogte te brengen via verschillende media uitingen. Ze is actief op veel verschillende social media kanalen zoals Twitter, Facebook en Instagram. Daarnaast vind ze het leuk om video’s te bekijken op YouTube. Haar email checkt ze eigenlijk de hele dag door, aangezien ze dit binnenkrijgt op haar telefoon, tablet en laptop. 
+Meike bevindt zich niet in een doelgroep die regelmatig gebruik maakt van het Kunstuitleen-concept. Het is daarom belangrijk om haar op de hoogte te brengen via verschillende media uitingen. Ze is actief op veel verschillende social media kanalen zoals Twitter, Facebook en Instagram. Daarnaast vindt ze het leuk om video’s te bekijken op YouTube. Haar email checkt ze eigenlijk de hele dag door, aangezien ze dit binnenkrijgt op haar telefoon, tablet en laptop. 
 
 **De customer journey van Meike**
 
