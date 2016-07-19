@@ -16,8 +16,6 @@ Op deze pagina zijn zowel de persona als de customer journey van de particuliere
 * Gepensioneerd 
 * Woonachtig in de binnenstad van Zwolle
 
-
-
 Liesbeth is een 68-jarige vrouw en woont in een ruim appartement in de binnenstad van Zwolle. Haar man Johan is twee jaar terug overleden en sindsdien woont Liesbeth alleen. Liesbeth is jarenlang werkzaam geweest in het bankleven, maar is sinds een jaartje gepensioneerd. Samen met Johan heeft ze één dochter gekregen: Rosalie. Ook heeft ze een hondje, Teddy. 
 
 Liesbeth is een bezig type en de rust die bij haar pensioen komt kijken vindt ze dan ook niets. Eén dag in de week past ze op haar kleinkinderen Tirza en Jasper. Daarnaast doet ze twee ochtenden in de week vrijwilligerswerk bij een buurtcentrum. Op woensdagmiddag volgt Liesbeth een schildercursus en iedere vrijdagochtend gaat ze bridgen met vriendinnen. 
