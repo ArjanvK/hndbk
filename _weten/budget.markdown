@@ -11,7 +11,7 @@ Aan een aantal van de activiteiten en stappen die in dit handboek beschreven sta
 ### Unbounce				
 Ontwikkeling van landingspagina’s
 
-110 dollar per maand
+€99,- per maand
 
 ### Facebook advertenties			
 Betaalde Facebookadvertenties om bezoekers naar landingspagina’s te krijgen
@@ -19,7 +19,7 @@ Afhankelijk per advertentie, doelgroep en onderwerp
 
 ### Github					
 Online programma waarop het online handboek gehost wordt
-7 dollar per maand
+€6,30,- per maand
 
 ### Vormgeving assets
 De ontwikkelde assets worden opgemaakt bij een externe vormgever
