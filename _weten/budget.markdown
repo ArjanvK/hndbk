@@ -10,25 +10,24 @@ Aan een aantal van de activiteiten en stappen die in dit handboek beschreven sta
 
 ### Unbounce				
 Ontwikkeling van landingspagina’s
-
-110 dollar per maand
+* €99,- per maand
 
 ### Facebook advertenties			
 Betaalde Facebookadvertenties om bezoekers naar landingspagina’s te krijgen
-Afhankelijk per advertentie, doelgroep en onderwerp
+* Afhankelijk per advertentie, doelgroep en onderwerp
 
 ### Github					
 Online programma waarop het online handboek gehost wordt
-7 dollar per maand
+* €6,30,- per maand
 
 ### Vormgeving assets
 De ontwikkelde assets worden opgemaakt bij een externe vormgever
-Variërend per asset
+* Variërend per asset
 
 ### Google Adwords 
 Hiermee wordt gezorgd dat de website van Kunstuitleen Zwolle hoger uitkomt in Google (SEO)
-Budget is zelf te bepalen per campagne die wordt uitgezet 
+* Budget is zelf te bepalen per campagne die wordt uitgezet 
 
 ### Enquête afnemen			
 Om de doelgroepen te blijven volgen kan af en toe een enquête worden uitgezet 
-Gratis via Google Forms
+* Gratis via Google Forms
