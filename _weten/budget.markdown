@@ -9,8 +9,9 @@ Aan een aantal van de activiteiten en stappen die in dit handboek beschreven sta
 ## Middelen
 
 ### Unbounce				
-Ontwikkeling van landingspagina’s 
-* 110 dollar per maand
+Ontwikkeling van landingspagina’s
+
+110 dollar per maand
 
 ### Facebook advertenties			
 Betaalde Facebookadvertenties om bezoekers naar landingspagina’s te krijgen
