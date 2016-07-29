@@ -37,13 +37,16 @@ De verschillende platformen die op dit moment bestaan richten zich op één – 
 ### Gevolgen voor Kunstuitleen Zwolle
 De trends en ontwikkelingen zoals in paragraaf 2.1 beschreven, hebben ook grote gevolgen voor Kunstuitleen Zwolle. Door de digitalisering van de kunstmarkt zijn er een hoop nieuwe aanbieders toegetreden tot de markt. Een logisch gevolg hiervan is dat er meer concurrentie ontstaat en de markt verkleind en wordt opgedeeld in nog kleinere stukjes door deze concurrentie. Een aantal van deze ‘concurrenten’ zijn:
 
-Exto.nl
+* Exto.nl
+
 Exto is bedoeld voor alle beeldend kunstenaars in Nederland. Exto stelt zich ten doel kunstenaars en kunstliefhebbers bij elkaar te brengen, zonder tussenkomst van een galerie. Dat doet zij door kunstenaars een promotieplatform, een eigen site, te geven. Kunstliefhebbers kunnen op veel ingangen zoeken in de exto-database om zo de kunst te vinden die hen aanspreekt. Als doelgroepen bedienen zij kunstenaars en kunstliefhebbers
 
-Galeries.nl
+* Galeries.nl
+
 Galeries.nl is een website waarop informatie is te vinden over galeries, musea, kunstuitlenen, kunstenaars, exposities, veilingen en kunstbeurzen. Honderden musea en galeries worden in het volledige expositieprogramma gepresenteerd. De website gaat in op de verschillende exposities, maar niet op de kunstwerken afzonderlijk. Als doelgroepen bedienen zij kunstliefhebbers en kunstbemiddelaars. 
 
-Artsy.net
+* Artsy.net
+
 Artsy is een platform wat beschikt over ’s werelds meest toonaangevende galeries, museumcollecties, stichtingen, kunstbeurzen en veilingen. Artsy heeft een database met 350.000 afbeeldingen van kunst, architectuur en design en 50.000 kunstenaars van moderne en hedendaagse werken. De doelgroepen van Artsy zijn onder andere kunstliefhebbers, museum-gangers, verzamelaars, studenten en docenten die willen leren over het verzamelen van kunst.
 Op het Artsy.net komen eigenlijk alle doelgroepen samen die een relatie hebben met kunst. Wat wel opvallend is, is dat Artsy zich alleen richt op highbrow kunst. In de kunstwereld bestaat een verschil tussen highbrow en lowbrow kunst. Kort gezegd is dit het verschil tussen ‘hoge’ kunst en meer toegankelijke kunst. Een verklaring is dat de hoge kunst – wegens complexiteit – meer training vergt om te kunnen waarderen. Volgens de theorie wordt populaire kunst benaderd met het oog op het publiek wat in tegenstelling ligt met de hogere kunst waarbij de creatieve visie van de kunstenaar voorop staat. Lowbrow kunst is wat mensen het meeste thuis hebben hangen (Alexander, 2003). Als doelgroepen bedienen zij kunstenaars, kunstliefhebbers, kunsttentoonstelers en kunstbemiddelaars. 
 
