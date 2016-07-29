@@ -1,6 +1,7 @@
 ---
 title: Budget
 date: 2016-07-29 15:52:00 +02:00
+position: 12
 ---
 
 Aan een aantal van de activiteiten en stappen die in dit handboek beschreven staan, zijn kosten verbonden. De manier van werken zoals beschreven in dit handboek is vernieuwend ten opzichte van traditionele communicatiemiddelen. Kostenposten als advertenties en folders/brochures zijn bijvoorbeeld al niet aanwezig. Om een indicatie te geven van de kosten die gemaakt kunnen gaan worden, is hier onder het middel met bijbehorende bedragen beschreven. 
