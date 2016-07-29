@@ -15,20 +15,25 @@ Ontwikkeling van landingspagina’s
 
 ### Facebook advertenties			
 Betaalde Facebookadvertenties om bezoekers naar landingspagina’s te krijgen
+
 * Afhankelijk per advertentie, doelgroep en onderwerp
 
 ### Github					
 Online programma waarop het online handboek gehost wordt
+
 * €6,30,- per maand
 
 ### Vormgeving assets
 De ontwikkelde assets worden opgemaakt bij een externe vormgever
+
 * Variërend per asset
 
 ### Google Adwords 
 Hiermee wordt gezorgd dat de website van Kunstuitleen Zwolle hoger uitkomt in Google (SEO)
+
 * Budget is zelf te bepalen per campagne die wordt uitgezet 
 
 ### Enquête afnemen			
 Om de doelgroepen te blijven volgen kan af en toe een enquête worden uitgezet 
+
 * Gratis via Google Forms
